@@ -5,7 +5,7 @@ starred: false
 keywords: []
 description: ''
 title: Miten tavoitteeseen päästään?
-dateModified: '2015-09-03T09:52:30.595Z'
+dateModified: '2015-09-03T09:52:43.838Z'
 tags:
   - ''
 authors: []
@@ -14,7 +14,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-datePublished: '2015-09-03T09:52:43.838Z'
+datePublished: '2015-09-03T09:58:45.366Z'
 sourcePath: _posts/2015-09-03-miten-tavoitteeseen-paastaan.md
 published: true
 url: miten-tavoitteeseen-paastaan/index.html
