@@ -5,21 +5,21 @@
         <description><![CDATA[Ironman 2017]]></description>
         <link>http://ferrix.kisakalenteri.fi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Sep 2015 11:07:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2015 11:08:08 GMT</lastBuildDate>
         <atom:link href="http://ferrix.kisakalenteri.fi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lähtöviiva kerrallaan]]></title>
+            <description><![CDATA[<article><h1>Lähtöviiva kerrallaan</h1><p>Katsaus menneisyyteen ja suunta kohti Ironmania</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/81d91cc2-2c1c-4f72-aac1-8764871c2533.JPG"></article>]]></description>
+            <link>http://ferrix.kisakalenteri.fi/lahtoviiva-kerrallaan/index.html</link>
+            <guid isPermaLink="false">8badc620-675e-45ac-a2aa-2a37c854b094</guid>
+            <pubDate>Thu, 03 Sep 2015 11:07:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Miten tavoitteeseen päästään?]]></title>
             <description><![CDATA[<article><h1>Miten tavoitteeseen päästään?</h1><p>Tavoitteet seuraavalle kaudelle on asetettu. Miten minä ne asetin?</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4421f2d1-f3f7-4036-8374-34789be29ccc.JPG"></article>]]></description>
             <link>http://ferrix.kisakalenteri.fi/miten-tavoitteeseen-paastaan/index.html</link>
             <guid isPermaLink="false">06b2f835-d430-48c2-bd9d-acea87b8cb12</guid>
             <pubDate>Thu, 03 Sep 2015 11:07:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lähtöviiva kerrallaan]]></title>
-            <description><![CDATA[<article><h1>Lähtöviiva kerrallaan</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/81d91cc2-2c1c-4f72-aac1-8764871c2533.JPG"></article>]]></description>
-            <link>http://ferrix.kisakalenteri.fi/lahtoviiva-kerrallaan/index.html</link>
-            <guid isPermaLink="false">8badc620-675e-45ac-a2aa-2a37c854b094</guid>
-            <pubDate>Thu, 03 Sep 2015 08:53:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
