@@ -5,27 +5,29 @@ starred: false
 keywords: []
 description: ''
 author: []
-datePublished: '2015-09-03T07:41:12.749Z'
+datePublished: '2015-09-03T08:03:13.635Z'
 title: Lähtöviiva kerrallaan
-dateModified: '2015-09-03T07:40:43.289Z'
+dateModified: '2015-09-03T07:49:26.156Z'
 tags:
   - pohja
   - tavoite
   - tausta
+sourcePath: _posts/2015-09-03-lahtoviiva-kerrallaan.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-09-03-lahtoviiva-kerrallaan.md
-published: true
 url: lahtoviiva-kerrallaan/index.html
 _type: Article
 _context: 'http://schema.org'
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3da68e8-9f14-455d-a00f-d27d84af2781.JPG)
+
+# _Lähtöviiva kerrallaan_
 
 _Jossain vaiheessa Joroisen puolimatkan triathlonia tänä vuonna 2015 syntyi ajatus: "Jos tämä kerran on niin helppoa, miksi en ottaisi tavoitteeksi täyden matkan kilpailua."_
 
@@ -41,4 +43,7 @@ Siinä seitsemän ja viidentoista ikävuoden välillä harrastin kilpauintia ja 
 
 Tänä kesänä kävin Vantaa Triathlonilla hakemassa revanssia ja hyvin menneen uinnin jälkeen pyöräily keskeytyi rengasongelmiin. Tämän jälkeen kausi meni melko hyvin. Vanajanlinna, Vierumäki, Porvoo, Joroinen ja Tahko. Jälkikäteen katsottuna treeni on ollut luvattoman kevyttä, mutta pyörän kestäessä minäkin kestin joka kerta. Kauden parhaat tulokset:
 
-Sprintti: 01:37:54Perusmatka: 03:28:44Puolimaraton: 02:30:58Puolimatka: 06:50:40
+* Sprintti: 01:37:54
+* Perusmatka: 03:28:44
+* Puolimaraton: 02:30:58
+* Puolimatka: 06:50:40
