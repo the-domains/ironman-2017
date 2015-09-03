@@ -5,7 +5,7 @@
         <description><![CDATA[Ironman 2017]]></description>
         <link>https://thegrid.ai/ironman-2017/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Sep 2015 07:41:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2015 07:41:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ironman-2017/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Lähtöviiva kerrallaan]]></title>
@@ -13,13 +13,6 @@
             <link>https://thegrid.ai/ironman-2017/lahtoviiva-kerrallaan/index.html</link>
             <guid isPermaLink="false">8badc620-675e-45ac-a2aa-2a37c854b094</guid>
             <pubDate>Thu, 03 Sep 2015 07:41:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lähtöviiva kerrallaan]]></title>
-            <description><![CDATA[<h1>Lähtöviiva kerrallaan</h1>]]></description>
-            <link>https://thegrid.ai/ironman-2017/lahtoviiva-kerrallaan/index.html</link>
-            <guid isPermaLink="false">655a56e7-2438-4be5-be23-a04b30d714b1</guid>
-            <pubDate>Thu, 03 Sep 2015 07:30:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
