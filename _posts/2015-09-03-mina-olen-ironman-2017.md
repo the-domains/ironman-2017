@@ -3,12 +3,12 @@ isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: ''
+description: Blogin kirjoittajasta
 title: Minä olen Ironman 2017
-dateModified: '2015-09-03T11:31:52.861Z'
+dateModified: '2015-09-03T11:33:12.895Z'
 tags:
   - blogi
-datePublished: '2015-09-03T11:32:04.633Z'
+datePublished: '2015-09-03T11:33:25.123Z'
 sourcePath: _posts/2015-09-03-mina-olen-ironman-2017.md
 published: true
 authors: []
@@ -18,7 +18,7 @@ publisher:
   url: null
   favicon: null
 url: mina-olen-ironman-2017/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Minä olen Ironman 2017
