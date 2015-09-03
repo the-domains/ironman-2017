@@ -1,28 +1,32 @@
 ---
-isBasedOnUrl: null
+isBasedOnUrl: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3da68e8-9f14-455d-a00f-d27d84af2781.JPG'
 inLanguage: null
 starred: false
 keywords: []
 description: ''
+author: []
+datePublished: '2015-09-03T07:41:12.749Z'
 title: Lähtöviiva kerrallaan
-dateModified: '2015-09-03T07:30:00.638Z'
+dateModified: '2015-09-03T07:40:43.289Z'
 tags:
-  - kausi2015
   - pohja
-  - ennätys
+  - tavoite
+  - tausta
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-datePublished: '2015-09-03T07:30:14.270Z'
 sourcePath: _posts/2015-09-03-lahtoviiva-kerrallaan.md
 published: true
 url: lahtoviiva-kerrallaan/index.html
 _type: Article
+_context: 'http://schema.org'
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3da68e8-9f14-455d-a00f-d27d84af2781.JPG)
+
 _Jossain vaiheessa Joroisen puolimatkan triathlonia tänä vuonna 2015 syntyi ajatus: "Jos tämä kerran on niin helppoa, miksi en ottaisi tavoitteeksi täyden matkan kilpailua."_
 
 Olen sen verran opiskellut itsensä johtamista, lukenut valmentajien oppaita ja kaikenlaista self-helppiä, että ymmärrän kaiken lähtevän tavoitteen asettelusta. Ainoa päivä muuttua on tänään, koska huomenna sitä ei saa aloitettua. Aivan siinä pyörän selässä en kovinkaan tarkasti käynyt ajattelemaan, mutta olen nyt jo toista kuukautta hionut päämäärää kirkkaammaksi vähän kerrallaan.
