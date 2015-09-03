@@ -5,10 +5,10 @@ starred: false
 keywords: []
 description: Tavoitteet seuraavalle kaudelle on asetettu. Miten minä ne asetin?
 title: Miten tavoitteeseen päästään?
-dateModified: '2015-09-03T11:06:23.761Z'
+dateModified: '2015-09-03T11:07:46.945Z'
 tags:
   - ''
-datePublished: '2015-09-03T11:07:46.945Z'
+datePublished: '2015-09-03T11:11:49.750Z'
 sourcePath: _posts/2015-09-03-miten-tavoitteeseen-paastaan.md
 published: true
 authors: []
