@@ -5,10 +5,10 @@ starred: false
 keywords: []
 description: ''
 title: Minä olen Ironman 2017
-dateModified: '2015-09-03T11:19:43.059Z'
+dateModified: '2015-09-03T11:25:03.354Z'
 tags:
   - blogi
-datePublished: '2015-09-03T11:20:08.591Z'
+datePublished: '2015-09-03T11:25:17.304Z'
 sourcePath: _posts/2015-09-03-mina-olen-ironman-2017.md
 published: true
 authors: []
@@ -22,9 +22,8 @@ _type: Article
 
 ---
 # Minä olen Ironman 2017
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/479a8a01-63b9-4c97-9719-466aaf3d0df2.JPG)
 
-Minä olen Ferrix Hovi, [IT-alan yrittäjä][0], [koomikko][1], teknologiafriikki ja olen harrastanut triathlonia vuodesta 2013\. Tämä sivusto kertoo treeneistäni kohti kesällä 2015 asetettua tavoitetta päästä Ironman-kilpailun maaliin kahden vuoden kuluttua. Yritän pitää täällä treenipäiväkirjaa, kirjoittaa triathlonista ja turista asioista, jotka elämäni liikunnalliseen puoleen kuuluvat.
+Minä olen Ferrix Hovi, [IT-alan yrittäjä][0], [koomikko][1], teknologiafriikki ja olen harrastanut triathlonia vuodesta 2013\. Tämä sivusto kertoo treeneistäni kohti heinäkuussa 2015 asetettua tavoitetta päästä Ironman-kilpailun maaliin kahden vuoden kuluttua. Yritän pitää täällä treenipäiväkirjaa, kirjoittaa triathlonista ja turista asioista, jotka elämäni liikunnalliseen puoleen kuuluvat.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/71f88bee-d8d3-411e-8c27-50106b80891a.jpg)
 
 [0]: https://sigrun.fi/
