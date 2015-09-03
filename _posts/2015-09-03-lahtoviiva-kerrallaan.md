@@ -5,9 +5,9 @@ starred: false
 keywords: []
 description: ''
 author: []
-datePublished: '2015-09-03T08:19:23.930Z'
+datePublished: '2015-09-03T08:26:02.468Z'
 title: Lähtöviiva kerrallaan
-dateModified: '2015-09-03T08:18:59.776Z'
+dateModified: '2015-09-03T08:25:52.309Z'
 tags:
   - pohja
   - tavoite
