@@ -1,13 +1,13 @@
 ---
 isBasedOnUrl: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3da68e8-9f14-455d-a00f-d27d84af2781.JPG'
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Katsaus menneisyyteen ja suunta kohti Ironmania
 author: []
-datePublished: '2015-09-03T11:11:49.765Z'
+datePublished: '2015-09-03T13:18:41.317Z'
 title: Lähtöviiva kerrallaan
-dateModified: '2015-09-03T11:07:47.549Z'
+dateModified: '2015-09-03T12:46:02.126Z'
 tags:
   - pohja
   - tavoite
