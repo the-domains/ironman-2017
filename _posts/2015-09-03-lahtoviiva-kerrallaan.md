@@ -5,9 +5,9 @@ starred: false
 keywords: []
 description: ''
 author: []
-datePublished: '2015-09-03T08:03:13.635Z'
+datePublished: '2015-09-03T08:19:23.930Z'
 title: Lähtöviiva kerrallaan
-dateModified: '2015-09-03T07:49:26.156Z'
+dateModified: '2015-09-03T08:18:59.776Z'
 tags:
   - pohja
   - tavoite
@@ -27,7 +27,9 @@ _context: 'http://schema.org'
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3da68e8-9f14-455d-a00f-d27d84af2781.JPG)
 
-# _Lähtöviiva kerrallaan_
+# 
+
+# Lähtöviiva kerrallaan
 
 _Jossain vaiheessa Joroisen puolimatkan triathlonia tänä vuonna 2015 syntyi ajatus: "Jos tämä kerran on niin helppoa, miksi en ottaisi tavoitteeksi täyden matkan kilpailua."_
 
@@ -47,3 +49,5 @@ Tänä kesänä kävin Vantaa Triathlonilla hakemassa revanssia ja hyvin menneen
 * Perusmatka: 03:28:44
 * Puolimaraton: 02:30:58
 * Puolimatka: 06:50:40
+
+Seuraavan kauden tavoite on kunnianhimoisesti napata puolitoista tuntia pois puolimatkalta eli 05:20:00\. Siihen jos pystyn, alle 12 tunnin Ironman ei pitäisi olla mahdotonta seuraavana vuonna.
