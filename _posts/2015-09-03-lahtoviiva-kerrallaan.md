@@ -5,9 +5,9 @@ starred: false
 keywords: []
 description: ''
 author: []
-datePublished: '2015-09-03T08:26:02.468Z'
+datePublished: '2015-09-03T08:48:43.987Z'
 title: Lähtöviiva kerrallaan
-dateModified: '2015-09-03T08:25:52.309Z'
+dateModified: '2015-09-03T08:48:33.354Z'
 tags:
   - pohja
   - tavoite
@@ -25,9 +25,7 @@ _type: Article
 _context: 'http://schema.org'
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3da68e8-9f14-455d-a00f-d27d84af2781.JPG)
-
-# 
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/81d91cc2-2c1c-4f72-aac1-8764871c2533.JPG)
 
 # Lähtöviiva kerrallaan
 
