@@ -3,20 +3,20 @@ isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: ''
+description: Tavoitteet seuraavalle kaudelle on asetettu. Miten minä ne asetin?
 title: Miten tavoitteeseen päästään?
-dateModified: '2015-09-03T09:52:43.838Z'
+dateModified: '2015-09-03T11:06:23.761Z'
 tags:
   - ''
+datePublished: '2015-09-03T11:07:46.945Z'
+sourcePath: _posts/2015-09-03-miten-tavoitteeseen-paastaan.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-datePublished: '2015-09-03T09:58:45.366Z'
-sourcePath: _posts/2015-09-03-miten-tavoitteeseen-paastaan.md
-published: true
 url: miten-tavoitteeseen-paastaan/index.html
 _type: Article
 
