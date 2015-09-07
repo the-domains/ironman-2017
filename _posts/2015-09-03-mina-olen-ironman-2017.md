@@ -5,10 +5,10 @@ starred: false
 keywords: []
 description: Blogin kirjoittajasta
 title: Minä olen Ironman 2017
-dateModified: '2015-09-03T11:51:22.164Z'
+dateModified: '2015-09-03T11:51:42.628Z'
 tags:
   - blogi
-datePublished: '2015-09-03T11:51:42.628Z'
+datePublished: '2015-09-07T20:02:24.737Z'
 sourcePath: _posts/2015-09-03-mina-olen-ironman-2017.md
 published: true
 authors: []
