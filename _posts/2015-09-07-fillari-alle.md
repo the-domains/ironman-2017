@@ -11,8 +11,8 @@ tags:
   - kilpavarustelu
 published: true
 url: fillari-alle/index.html
-datePublished: '2015-09-07T20:00:16.315Z'
-dateModified: '2015-09-07T19:59:56.815Z'
+datePublished: '2015-09-07T20:02:24.735Z'
+dateModified: '2015-09-07T20:00:16.315Z'
 authors: []
 publisher:
   name: Ferrix
