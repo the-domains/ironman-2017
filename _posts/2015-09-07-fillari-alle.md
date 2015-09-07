@@ -11,8 +11,8 @@ tags:
   - kilpavarustelu
 published: true
 url: fillari-alle/index.html
-datePublished: '2015-09-07T20:21:37.461Z'
-dateModified: '2015-09-07T20:21:29.505Z'
+datePublished: '2015-09-07T20:25:10.426Z'
+dateModified: '2015-09-07T20:25:00.466Z'
 sourcePath: _posts/2015-09-07-fillari-alle.md
 authors: []
 publisher:
@@ -53,7 +53,7 @@ Mikäli nurkissa ei loju sopivaa Jopoa tai maastopyörää hyötyreissuihin,
 ensimmäiseksi pyöräksi kannattaa hankkia cyclocross eli CC eli syklari eli
 syslari eli cyclo. Nuo ovat yleensä kuvioiduilla leveämmillä renkailla ja usein
 levyjarruilla varustettuja maastokelpoisia pyöriä. Niiden runko on yleensä
-alumiinia. Kisoja varten kannattaa ostaa toinen kiekkosetti ja mikäli valitussa
+alumiinia. Kisoja varten kannattaa ostaa toinen kiekkosetti maantierenkain. Mikäli valitussa
 syklarissa ei ole levyjarruja, sama kiekkosetti käy suoraan seuraavaksi
 ostettavaan kisapyörään.
 
