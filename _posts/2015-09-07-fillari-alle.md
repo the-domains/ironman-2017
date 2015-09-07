@@ -11,8 +11,8 @@ tags:
   - kilpavarustelu
 published: true
 url: fillari-alle/index.html
-datePublished: '2015-09-07T20:10:15.188Z'
-dateModified: '2015-09-07T20:10:05.001Z'
+datePublished: '2015-09-07T20:17:08.651Z'
+dateModified: '2015-09-07T20:16:57.954Z'
 sourcePath: _posts/2015-09-07-fillari-alle.md
 authors: []
 publisher:
@@ -24,8 +24,9 @@ _type: Article
 _context: 'http://schema.org'
 
 ---
+# ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f05cbf65-3443-4910-a200-b2aa52956761.png)
+
 # Fillari alle
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f05cbf65-3443-4910-a200-b2aa52956761.png)
 
 _Triathlonin ehdottomasti tärkein väline on polkupyörä. Maaliin pääsee
 ilman märkäpukuakin, mutta joku pyörä on pakko olla. Millainen on hyvä?_
