@@ -5,9 +5,9 @@ starred: false
 keywords: []
 description: Katsaus menneisyyteen ja suunta kohti Ironmania
 author: []
-datePublished: '2015-09-03T13:18:41.317Z'
+datePublished: '2015-09-07T20:02:24.859Z'
 title: Lähtöviiva kerrallaan
-dateModified: '2015-09-03T12:46:02.126Z'
+dateModified: '2015-09-03T13:18:41.317Z'
 tags:
   - pohja
   - tavoite
