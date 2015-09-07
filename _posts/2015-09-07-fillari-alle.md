@@ -11,8 +11,8 @@ tags:
   - kilpavarustelu
 published: true
 url: fillari-alle/index.html
-datePublished: '2015-09-07T20:17:08.651Z'
-dateModified: '2015-09-07T20:16:57.954Z'
+datePublished: '2015-09-07T20:21:37.461Z'
+dateModified: '2015-09-07T20:21:29.505Z'
 sourcePath: _posts/2015-09-07-fillari-alle.md
 authors: []
 publisher:
@@ -43,7 +43,7 @@ on kielletty. Kuntosarjojen kilpailuista lähes kaikissa peesaaminen on kiellett
 Peesivapaissa kilpailuissa triathlon- eli aika-ajopyörä, niin kutsuttu TT eli
 time-trial on kielletty. Virallisissa olympiamatkan kisoissa ja sprinteillä
 peesaaminen on sallittu. Mikäli siis mielii ammattilaiseksi kaikissa sarjoissa,
-lyhyille matkoille tarvitsee aerobisen maantiepyörän ja pidemmille matkoille
+lyhyille matkoille tarvitsee aerodynaamisen maantiepyörän ja pidemmille matkoille
 triathlonpyörän.
 
 Koska kotimaassa ajokelit ovat kehnoja ja triatleetti saattaa haluta välillä
