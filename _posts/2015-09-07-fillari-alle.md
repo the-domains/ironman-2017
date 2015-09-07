@@ -1,5 +1,5 @@
 ---
-isBasedOnUrl: 'content://x-text:e73fcb55-47b4-4bbb-8927-8814ef30804e'
+isBasedOnUrl: 'content://x-text:9b84e11d-f0c4-4395-ab08-fdff7f11a85c'
 inLanguage: fi
 starred: false
 keywords: []
@@ -11,11 +11,11 @@ tags:
   - kilpavarustelu
 published: true
 url: fillari-alle/index.html
-datePublished: '2015-09-07T19:56:37.033Z'
-dateModified: '2015-09-07T19:56:16.345Z'
+datePublished: '2015-09-07T20:00:16.315Z'
+dateModified: '2015-09-07T19:59:56.815Z'
 authors: []
 publisher:
-  name: x-text
+  name: Ferrix
   domain: x-text
   url: null
   favicon: null
@@ -70,4 +70,4 @@ virtaviivaisemmaksi ja energiankulutus pienenee.
 Jokainen triatleetti tarvitsee siis triathlonpyörän, maantiepyörän, cyclocrossin,
 maastopyörän, fatbiken, fiksin, sinkulan ja pari muuta, muttei kerralla rahat ja
 välit puolison kanssa riitä.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2aad04a8-7b7e-4d9c-a20f-a8cfec9db920.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f05cbf65-3443-4910-a200-b2aa52956761.png)
