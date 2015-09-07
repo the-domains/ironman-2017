@@ -11,20 +11,21 @@ tags:
   - kilpavarustelu
 published: true
 url: fillari-alle/index.html
-datePublished: '2015-09-07T20:02:24.735Z'
-dateModified: '2015-09-07T20:00:16.315Z'
+datePublished: '2015-09-07T20:10:15.188Z'
+dateModified: '2015-09-07T20:10:05.001Z'
+sourcePath: _posts/2015-09-07-fillari-alle.md
 authors: []
 publisher:
   name: Ferrix
   domain: x-text
   url: null
   favicon: null
-sourcePath: _posts/2015-09-07-fillari-alle.md
 _type: Article
 _context: 'http://schema.org'
 
 ---
 # Fillari alle
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f05cbf65-3443-4910-a200-b2aa52956761.png)
 
 _Triathlonin ehdottomasti tärkein väline on polkupyörä. Maaliin pääsee
 ilman märkäpukuakin, mutta joku pyörä on pakko olla. Millainen on hyvä?_
@@ -70,4 +71,5 @@ virtaviivaisemmaksi ja energiankulutus pienenee.
 Jokainen triatleetti tarvitsee siis triathlonpyörän, maantiepyörän, cyclocrossin,
 maastopyörän, fatbiken, fiksin, sinkulan ja pari muuta, muttei kerralla rahat ja
 välit puolison kanssa riitä.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f05cbf65-3443-4910-a200-b2aa52956761.png)
+
+Minä ajelen Bianchin hiilikuituisella maantiepyörällä, jossa on Campagnolon osasarja ja saman valmistajan kiekot. Tällä mennään vielä seuraava kausi, mutta Ironmanille voisin oikeasti harkita jotain vähän nopeampaa. Tanko menee vaihtoon, jotta saan aerobarit kiinni. Nykyinen tanko on FSA:n erittäin hieno litistetty, johon ei mitään ripustella.
