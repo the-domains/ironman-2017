@@ -11,8 +11,8 @@ tags:
   - kilpavarustelu
 published: true
 url: henkimaailman-juttuja/index.html
-datePublished: '2015-09-23T16:50:53.933Z'
-dateModified: '2015-09-23T16:50:24.199Z'
+datePublished: '2015-09-23T17:31:50.877Z'
+dateModified: '2015-09-23T16:50:53.933Z'
 authors: []
 publisher:
   name: Ferrix
