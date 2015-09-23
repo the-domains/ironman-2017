@@ -11,15 +11,15 @@ tags:
   - kilpavarustelu
 published: true
 url: henkimaailman-juttuja/index.html
-datePublished: '2015-09-23T17:52:38.060Z'
-dateModified: '2015-09-23T17:31:50.877Z'
+datePublished: '2015-09-23T19:01:20.229Z'
+dateModified: '2015-09-23T19:01:11.532Z'
+sourcePath: _posts/2015-09-23-henkimaailman-juttuja.md
 authors: []
 publisher:
   name: Ferrix
   domain: x-text
   url: null
   favicon: null
-sourcePath: _posts/2015-09-23-henkimaailman-juttuja.md
 _type: Article
 _context: 'http://schema.org'
 
