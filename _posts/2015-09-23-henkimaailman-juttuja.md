@@ -11,8 +11,8 @@ tags:
   - kilpavarustelu
 published: true
 url: henkimaailman-juttuja/index.html
-datePublished: '2015-09-23T19:01:20.229Z'
-dateModified: '2015-09-23T19:01:11.532Z'
+datePublished: '2015-09-24T05:19:06.554Z'
+dateModified: '2015-09-24T05:18:57.104Z'
 sourcePath: _posts/2015-09-23-henkimaailman-juttuja.md
 authors: []
 publisher:
@@ -37,7 +37,7 @@ hommaan on löytynyt jonkinlainen järki. Insinööriluonteisena tykkään pitä
 asioista kirjaa ja yrittää katsoa harjoittelusta ja kisoista tulevien
 numeroiden taakse. Ensimmäinen sykemittarini oli Suunnon T3\. Vyö oli varsin
 epämukava ja matkaa pystyi mittaamaan summittaisesti jalkaan liitettävällä
-anturilla tai isolla GPS-kiekolla, joka liitettiin käsivarteen ja reitistä ei
+anturilla tai isolla GPS-kiekolla, joka hirtettiin käsivarteen ja reitistä ei
 jäänyt karttaan jälkeäkään, vaan vain matka ja vauhti, jotka olivat huonosta
 vastaanotosta johtuen todellakin vähän sinne päin.
 
