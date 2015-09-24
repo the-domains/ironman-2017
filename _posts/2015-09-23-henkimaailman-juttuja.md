@@ -11,8 +11,8 @@ tags:
   - kilpavarustelu
 published: true
 url: henkimaailman-juttuja/index.html
-datePublished: '2015-09-24T06:42:35.975Z'
-dateModified: '2015-09-24T06:42:26.194Z'
+datePublished: '2015-09-24T12:10:17.661Z'
+dateModified: '2015-09-24T12:10:08.913Z'
 sourcePath: _posts/2015-09-23-henkimaailman-juttuja.md
 authors: []
 publisher:
@@ -44,7 +44,7 @@ vastaanotosta johtuen todellakin vähän sinne päin.
 Nykyään laitteet ovat todella hyviä ja ihan pelkällä kännykällä voi tehdä
 ihmeitä. Triathloniin on kehitetty ihan omat laitteensa, joista käyn läpi
 omat suositukseni. Käytän itse pääosin Garminin laitteita, mutta tunnen myös
-muiden valmistajien tuotteita paljon.
+muiden valmistajien tuotteita paljon. Pysytään kuitenkin tunnetuissa merkeissä.
 
 Laitteiden väliset erot saattavat paikoin olla häviäviä, koska taannoin
 edellistä kelloani ostaessa selvisi, että Polarin ja Suunnon sykelähettimet
