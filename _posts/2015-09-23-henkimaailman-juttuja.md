@@ -11,8 +11,8 @@ tags:
   - kilpavarustelu
 published: true
 url: henkimaailman-juttuja/index.html
-datePublished: '2015-09-28T06:05:34.690Z'
-dateModified: '2015-09-28T06:05:21.260Z'
+datePublished: '2015-10-05T11:03:59.434Z'
+dateModified: '2015-09-28T06:05:34.690Z'
 sourcePath: _posts/2015-09-23-henkimaailman-juttuja.md
 authors: []
 publisher:
