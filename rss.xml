@@ -5,8 +5,15 @@
         <description><![CDATA[Ironman 2017]]></description>
         <link>http://ferrix.kisakalenteri.fi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 09 Oct 2015 09:49:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2015 10:08:15 GMT</lastBuildDate>
         <atom:link href="http://ferrix.kisakalenteri.fi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Henkimaailman juttuja]]></title>
+            <description><![CDATA[<article><h1></h1><p>Monet triathlonistit mittaavat yhtä jos toista suorituksestaan. Kuntoilijat saattavat mitata sykettä, mutta mitä oikeastaan voi ja kannattaa mitata?</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f52d6f67-c2f4-4f84-893a-f6588fdf0d56.jpg"></article>]]></description>
+            <link>http://ferrix.kisakalenteri.fi/henkimaailman-juttuja/index.html</link>
+            <guid isPermaLink="false">1eac3157-8085-406b-bb13-a8bf39ea6e5b</guid>
+            <pubDate>Fri, 09 Oct 2015 10:06:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fillari alle]]></title>
             <description><![CDATA[<article><h1></h1><p>Perusasioita fillarin valinnasta</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f05cbf65-3443-4910-a200-b2aa52956761.png"></article>]]></description>
@@ -33,7 +40,7 @@
             <description><![CDATA[<article><h1>Miten tavoitteeseen päästään?</h1><p>Tavoitteet seuraavalle kaudelle on asetettu. Miten minä ne asetin?</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4421f2d1-f3f7-4036-8374-34789be29ccc.JPG"></article>]]></description>
             <link>http://ferrix.kisakalenteri.fi/miten-tavoitteeseen-paastaan/index.html</link>
             <guid isPermaLink="false">06b2f835-d430-48c2-bd9d-acea87b8cb12</guid>
-            <pubDate>Mon, 07 Sep 2015 20:02:24 GMT</pubDate>
+            <pubDate>Fri, 09 Oct 2015 10:06:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
