@@ -1,14 +1,13 @@
 ---
-isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: Tavoitteet seuraavalle kaudelle on asetettu. Miten minä ne asetin?
 title: Miten tavoitteeseen päästään?
-dateModified: '2015-09-03T12:39:37.199Z'
+dateModified: '2015-09-07T20:02:24.733Z'
 tags:
   - ''
-datePublished: '2015-09-07T20:02:24.733Z'
+datePublished: '2015-10-09T10:06:53.058Z'
 sourcePath: _posts/2015-09-03-miten-tavoitteeseen-paastaan.md
 published: true
 authors: []
@@ -17,6 +16,9 @@ publisher:
   domain: null
   url: null
   favicon: null
+inFeed: true
+hasPage: true
+inNav: false
 url: miten-tavoitteeseen-paastaan/index.html
 _type: Article
 
