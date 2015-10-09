@@ -1,5 +1,4 @@
 ---
-isBasedOnUrl: 'content://x-text:9b84e11d-f0c4-4395-ab08-fdff7f11a85c'
 inLanguage: fi
 starred: false
 keywords: []
@@ -11,8 +10,8 @@ tags:
   - kilpavarustelu
 published: true
 url: fillari-alle/index.html
-datePublished: '2015-09-07T20:25:10.426Z'
-dateModified: '2015-09-07T20:25:00.466Z'
+datePublished: '2015-10-09T10:06:53.050Z'
+dateModified: '2015-09-07T20:25:10.426Z'
 sourcePath: _posts/2015-09-07-fillari-alle.md
 authors: []
 publisher:
@@ -20,6 +19,9 @@ publisher:
   domain: x-text
   url: null
   favicon: null
+inFeed: true
+hasPage: true
+inNav: false
 _type: Article
 _context: 'http://schema.org'
 
