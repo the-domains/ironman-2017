@@ -1,18 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[Ironman 2017]]></title>
         <description><![CDATA[Ironman 2017]]></description>
         <link>http://ferrix.kisakalenteri.fi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 11 Oct 2015 15:13:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2015 12:08:58 GMT</lastBuildDate>
         <atom:link href="http://ferrix.kisakalenteri.fi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henkimaailman juttuja]]></title>
             <description><![CDATA[<article><h1></h1><p>Monet triathlonistit mittaavat yhtä jos toista suorituksestaan. Kuntoilijat saattavat mitata sykettä, mutta mitä oikeastaan voi ja kannattaa mitata?</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f52d6f67-c2f4-4f84-893a-f6588fdf0d56.jpg"></article>]]></description>
             <link>http://ferrix.kisakalenteri.fi/henkimaailman-juttuja/index.html</link>
             <guid isPermaLink="false">1eac3157-8085-406b-bb13-a8bf39ea6e5b</guid>
-            <pubDate>Sun, 11 Oct 2015 15:12:37 GMT</pubDate>
+            <pubDate>Tue, 10 Nov 2015 12:08:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fillari alle]]></title>
