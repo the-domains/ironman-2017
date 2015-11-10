@@ -7,8 +7,8 @@ starred: false
 keywords: []
 description: 'Monet triathlonistit mittaavat yhtä jos toista suorituksestaan. Kuntoilijat saattavat mitata sykettä, mutta mitä oikeastaan voi ja kannattaa mitata?'
 title: Henkimaailman juttuja
-dateModified: '2015-10-09T20:32:07.217Z'
-datePublished: '2015-10-11T15:12:37.444Z'
+dateModified: '2015-10-15T06:25:02.536Z'
+datePublished: '2015-11-10T12:08:24.188Z'
 sourcePath: _posts/2015-10-09-henkimaailman-juttuja.md
 published: true
 authors: []
@@ -157,36 +157,36 @@ mukaan ja laittaa kenkään kiinni, jolloin kaikki paitsi yhden jalan polkeminen
 tallentuvat. Garminilla on kumilenkillä kampeen tuleva versio, joka kulkee myös
 mukana spinuissa, joten se on varsin hyvä vaihtoehto.
 
-## Voima
+## Teho
 
-Voiman mittaaminen pyöräilyssä on ammattilaisten juttu, jota en suosittele
+Tehon tai hetkellisen voiman mittaaminen pyöräilyssä on ammattilaisten juttu, jota en suosittele
 ensimmäistä kauttaan suunnitteleville. Syynä on se, että mittareiden tekniikka
 perustuu venymäliuskoihin, jotka ovat sen verran kalliita valmistaa, ettei
 sitä yksittäistä osaa saa alle neljänsadan euron. Tästä johtuu, että laitteet
 tuppaavat olemaan kuluttajan kukkarolle vähän tyyriitä.
 
-Toinen sudenkuoppa voimamittareissa on perinteisesti ollut yhteensopivuus.
+Toinen sudenkuoppa tehomittareissa on perinteisesti ollut yhteensopivuus.
 Laitteet käyttävät yleensä ANT+-protokollaa, joten ne toimivat lähinnä Garminin
 laitteiden kanssa. Polarilla on omat Keó-polkimensa, jotka puhuvat sitä niiden
 kieltä, mutta pääosin markkinat on lastattu ANT+-laitteilla. Powertap on myös
 päivittänyt mallistonsa tukemaan molempia protokollia, joten kyllä se tästä.
 
 Kolmas sudenkuoppa on sijoittelu. Triathlonistilla on yleensä muutama pyörä,
-joista olisi hyvä saada lukemat. Voimamittarit voidaan sijoittaa takakiekon
+joista olisi hyvä saada lukemat. Tehomittarit voidaan sijoittaa takakiekon
 napaan, keskiöön, kampeen tai polkimeen. Kaikki markkinoilla olevat polkimet
 taitavat tällä hetkellä olla Keó-mallia, joten muista klosseista pitävän on
 nieltävä ylpeytensä. Jos kiekkoja on kisoihin ja treeneihin erikseen, jokaiseen
 kiekkopariin pitää laittaa 700 euroa lisää. Toisaalta kiekosta voi mitata
 lisäksi nopeuden ja kadenssin, kun kammesta, polkimesta tai keskiöstä pelkän
-kadenssin. Apropoo, kadenssimittari kannattaa silti hankkia, koska voimaa
-mittaavan trainerin kanssa ei välttämättä saa toisesta voimamittarista pelkkää
+kadenssin. Apropoo, kadenssimittari kannattaa silti hankkia, koska tehoa
+mittaavan trainerin kanssa ei välttämättä saa toisesta tehomittarista pelkkää
 kadenssia. Toisaalta polkimista ja kammista sattaa saada oikean ja vasemman
 jalan tasapainon, jota kiekossa ei voi mitata.
 
-Voimamittarin kaikkien haittojen listaamisen jälkeen ne hyödyt. Pyöräilyn
+Tehomittarin kaikkien haittojen listaamisen jälkeen ne hyödyt. Pyöräilyn
 treenaaminen on mielekkäämpää tehoalueilla kuin sykealueilla. Syke seuraa
 tehontuottoa niin paljon jäljessä, että sopivan pienen voiman arvioiminen on
-erittäin hankalaa. Väsyneenä sykkeen ja voiman suhde myös muuttuu, joten
+erittäin hankalaa. Väsyneenä sykkeen ja tehon suhde myös muuttuu, joten
 tasainen suorittaminen on eräänlainen pähkinä.
 
 ## Minun valintani
@@ -204,7 +204,7 @@ mukana olisi kelloa eikä kännykkää.
 Toisessa pyörässäni on Garminin yhdistetty kadenssi- ja nopeusmittari, joka
 perustuu siis magneetteihin. Maantiepyörässä Garminin nopeusmittari ja Vector
 2S -polkimet. Sisätreeneissä käytän Garminin kadenssianturia, koska Wahoon
-Kickr-trainerini tuottaa voima- ja nopeusmitat eikä polkimista saa pelkkää
+Kickr-trainerini tuottaa teho- ja nopeusmitat eikä polkimista saa pelkkää
 kadenssia samaan aikaan.
 
 Mikäli olet itsellesi laitteita ostamassa, kannattaa käydä markkinat läpi
