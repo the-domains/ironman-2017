@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Monen vuoden aktiivisen liikunnan jälkeenkin tarvitaan kisasuunnitelma, jotta treeni maistuu joltakin'
-datePublished: '2016-01-18T10:03:20.217Z'
-dateModified: '2016-01-18T10:03:19.694Z'
+datePublished: '2016-01-18T10:03:20.600Z'
+dateModified: '2016-01-18T10:03:20.029Z'
 title: Vuoden suunnitelma
 author: []
 sourcePath: _posts/2016-01-17-vuoden-suunnitelma.md
