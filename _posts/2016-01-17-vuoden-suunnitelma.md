@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-17T21:26:45.174Z'
-dateModified: '2016-01-17T21:26:33.734Z'
+description: 'Monen vuoden aktiivisen liikunnan jälkeenkin tarvitaan kisasuunnitelma, jotta treeni maistuu joltakin'
+datePublished: '2016-01-17T21:30:59.886Z'
+dateModified: '2016-01-17T21:30:55.690Z'
 title: Vuoden suunnitelma
 author: []
+sourcePath: _posts/2016-01-17-vuoden-suunnitelma.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-17-vuoden-suunnitelma.md
-published: true
 url: vuoden-suunnitelma/index.html
 _type: Article
 
