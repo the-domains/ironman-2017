@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Monet triathlonistit mittaavat yhtä jos toista suorituksestaan. Kuntoilijat saattavat mitata sykettä, mutta mitä oikeastaan voi ja kannattaa mitata?'
-datePublished: '2016-01-18T10:06:41.605Z'
-dateModified: '2016-01-18T10:06:16.440Z'
+datePublished: '2016-01-18T10:06:41.728Z'
+dateModified: '2016-01-18T10:06:41.417Z'
 title: Henkimaailman juttuja
 sourcePath: _posts/2015-10-09-henkimaailman-juttuja.md
 published: true
