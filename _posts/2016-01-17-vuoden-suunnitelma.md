@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Monen vuoden aktiivisen liikunnan jälkeenkin tarvitaan kisasuunnitelma, jotta treeni maistuu joltakin'
-datePublished: '2016-01-18T10:03:20.600Z'
-dateModified: '2016-01-18T10:03:20.029Z'
+datePublished: '2016-01-18T10:25:02.473Z'
+dateModified: '2016-01-18T10:24:58.481Z'
 title: Vuoden suunnitelma
 author: []
 sourcePath: _posts/2016-01-17-vuoden-suunnitelma.md
@@ -72,9 +72,9 @@ Vuoden viimeinen triathlon ja A-kisa, joten nyt viimeistään alle 5:20\. Uinti 
 
 Viime vuonna Rantamaratonin puolikas jäi tekemättä flunssan takia, joten rästi täytyy käydä suorittamassa. HCR:n ajasta pitäisi saada kymmenisen minuuttia pois, mitä nyt sattuukaan olemaan. Juoksin 2013 ensimmäisen puolimaratonini kotikaupungissani ja siksi tämä on aika erityislaatuinen tapaus. Puolikkaan reitti on aika tasainen ja täysmaratonin reittiä on sanottu haastavaksi ja mäkiseksi. Ei kuitenkaan täyttä matkaa tällä kertaa, koska on muita suunnitelmia.
 
-## 12\. Vantaa maraton 8.10\. tai Amsterdam Marathon 16.10\.
+## 12\. Amsterdam Marathon 16.10\.
 
-En ole vielä päättänyt, lähdenkö tutulle Vantaan reitille, jossa toimin takaperin juosseille hulluille oppaana vai ulkomaille, mutta syksyllä on viimeinen järkevä tilaisuus juosta kokonainen maraton oikeasti ennen Ironmania. Neljän ja puolen tunnin alle olisi syytä päästä.
+Suoritin ensimmäisen maratonmatkani Vantaalla, jossa toimin takaperin juosseille hulluille oppaana. Alunperin ajattelin, että puolentoista tunnin parannus tuohon yli 7 tunnin aikaan olisi hyvä tavoite samassa paikalle. Syksyllä on viimeinen järkevä tilaisuus juosta kokonainen maraton oikeasti ennen Ironmania. Neljän ja puolen tunnin alle olisi syytä päästä, mutta ei lähdetä repimään. Viekkaat kanssaurheilijat kuitenkin houkuttelivat lähtemään ihan ulkomaille asti, joten ensimmäinen kunnollinen maratonjuoksu tehdään suuren maailman tyylillä.
 
 ## Juu elikkäs
 
