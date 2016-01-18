@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Monen vuoden aktiivisen liikunnan jälkeenkin tarvitaan kisasuunnitelma, jotta treeni maistuu joltakin'
-datePublished: '2016-01-18T10:25:02.557Z'
-dateModified: '2016-01-18T10:24:58.481Z'
+datePublished: '2016-01-18T10:59:10.277Z'
+dateModified: '2016-01-18T10:29:54.368Z'
 title: Vuoden suunnitelma
 author: []
 sourcePath: _posts/2016-01-17-vuoden-suunnitelma.md
@@ -74,7 +74,7 @@ Viime vuonna Rantamaratonin puolikas jäi tekemättä flunssan takia, joten räs
 
 ## 12\. Amsterdam Marathon 16.10\.
 
-Suoritin ensimmäisen maratonmatkani Vantaalla, jossa toimin takaperin juosseille hulluille oppaana. Alunperin ajattelin, että puolentoista tunnin parannus tuohon yli 7 tunnin aikaan olisi hyvä tavoite samassa paikalle. Syksyllä on viimeinen järkevä tilaisuus juosta kokonainen maraton oikeasti ennen Ironmania. Neljän ja puolen tunnin alle olisi syytä päästä, mutta ei lähdetä repimään. Viekkaat kanssaurheilijat kuitenkin houkuttelivat lähtemään ihan ulkomaille asti, joten ensimmäinen kunnollinen maratonjuoksu tehdään suuren maailman tyylillä.
+Suoritin ensimmäisen maratonmatkani Vantaalla, jossa toimin takaperin juosseille hulluille oppaana. Alunperin ajattelin, että puolentoista tunnin parannus tuohon yli 7 tunnin aikaan olisi hyvä tavoite samalla reitillä. Syksyllä on viimeinen järkevä tilaisuus juosta kokonainen maraton oikeasti ennen Ironmania. Neljän ja puolen tunnin alle olisi syytä päästä, mutta ei lähdetä repimään. Viekkaat kanssaurheilijat kuitenkin houkuttelivat lähtemään ihan ulkomaille asti, joten ensimmäinen kunnollinen maratonjuoksu tehdään suuren maailman tyylillä.
 
 ## Juu elikkäs
 
