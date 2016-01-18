@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Monen vuoden aktiivisen liikunnan jälkeenkin tarvitaan kisasuunnitelma, jotta treeni maistuu joltakin'
-datePublished: '2016-01-18T10:59:10.277Z'
-dateModified: '2016-01-18T10:29:54.368Z'
+datePublished: '2016-01-18T11:08:11.915Z'
+dateModified: '2016-01-18T11:08:10.996Z'
 title: Vuoden suunnitelma
 author: []
 sourcePath: _posts/2016-01-17-vuoden-suunnitelma.md
@@ -31,6 +31,7 @@ Kokeilin triathlonia ensimmäisen kerran vuonna 2013\. Alkuvuodesta 2014 aloin t
 ## 1\. Tour of Sufferlandria 6.-14.2\.
 
 Tämä on loistava treenispurtti talvikauden sisäpyöräilijälle. Trainerin hankkimisen jälkeen tartuin haasteeseen ensimmäisen kerran viime talvena. Homman nimi on intensiivinen fillaritreeni video-ohjelmilla yhdeksän päivää putkeen. Aikaa päivän treenin tekemiseen on 50 tuntia eli niin kauan kuin jollain aikavyöhykkeellä on sama vuorokausi. Oli rankkaa, mutta mukavaa.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a64f3a18-06de-493f-aadf-42ff78c4599a.JPG)
 
 ## 2\. Helsinki City Run 14.5\.
 
