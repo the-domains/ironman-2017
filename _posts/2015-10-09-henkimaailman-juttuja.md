@@ -6,11 +6,12 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Monet triathlonistit mittaavat yhtä jos toista suorituksestaan. Kuntoilijat saattavat mitata sykettä, mutta mitä oikeastaan voi ja kannattaa mitata?'
+datePublished: '2016-01-18T10:05:14.798Z'
+dateModified: '2016-01-18T10:05:13.669Z'
 title: Henkimaailman juttuja
-dateModified: '2015-10-15T06:25:02.536Z'
-datePublished: '2015-11-10T12:08:24.188Z'
 sourcePath: _posts/2015-10-09-henkimaailman-juttuja.md
 published: true
+author: []
 authors: []
 publisher:
   name: null
@@ -21,7 +22,7 @@ url: henkimaailman-juttuja/index.html
 _type: Article
 
 ---
-# 
+# ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c03729b9142932ffb203dc879713a476d28ff5a.jpg)
 
 # Henkimaailman juttuja
 
@@ -214,6 +215,6 @@ huomioida, että minkä hyvänsä laitteen ostatkin, sen kannattaa olla ANT+ tai
 Bluetooth Smart, koska oikeastaan millään muilla vaihtoehdoilla ei ole kovin
 auvoista tulevaisuutta. Sen jälkeen tee kaikki hankintasi niin, että laitteet
 varmasti sopivat yhteen.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f52d6f67-c2f4-4f84-893a-f6588fdf0d56.jpg)
+
 
 [0]: http://www.dcrainmaker.com/
