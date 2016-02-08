@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-05T13:41:12.507Z'
-dateModified: '2016-02-05T13:00:32.660Z'
+datePublished: '2016-02-08T08:32:37.534Z'
+dateModified: '2016-02-06T07:16:48.258Z'
 title: Rääkkiviikko
 author: []
 sourcePath: _posts/2016-02-05-raakkiviikko.md
@@ -48,11 +48,7 @@ Toisena päivänä kiipeämisen sijaan on vuorossa 32 minuutin pyöritysinterval
 
 Tänä vuonna teen kaksi asiaa eri tavalla. Ensinnäkin ajattelin kirjoittaa vähän treenipäiväkirjaa tuntemuksistani tänne Interwebiin. Toisekseen annan lähimmäisilleni mahdollisuuden osallistua hyväntekeväisyyteen kanssani. Sen verran oma lehmä on ojassa, että näistä lahjoituksista saan yhden arvan per kymppi noiden tuotepalkintojen saamiseksi, mutta en minä viimeksikään niitä voittanut.
 
-**Jos haluat osallistua, **[**klikkaa tästä**][1].
+**Jos haluat osallistua, ****[klikkaa tästä][1]**.
 
 [0]: http://thesufferfest.com/pages/tour-of-sufferlandria
-[1]: http://dpf.kintera.org/tos2016/11088056
-http://dpf.kintera.org/tos2016/11088056
-http://dpf.kintera.org/tos2016/11088056
-http://dpf.kintera.org/tos2016/11088056
-http://dpf.kintera.org/tos2016/11088056
+[1]: http://dpf.kintera.org/tos2016/11088056
