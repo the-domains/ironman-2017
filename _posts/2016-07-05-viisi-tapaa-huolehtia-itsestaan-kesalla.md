@@ -4,20 +4,24 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Viisi tapaa huolehtia itsestään kesällä
-datePublished: '2016-07-05T15:18:44.501Z'
-dateModified: '2016-07-05T15:18:29.398Z'
-title: ''
+description: >-
+  Ihan huolella viisi minuuttia mietitty tapa elää aktiivisesti ja nauttia
+  samalla.
+datePublished: '2016-07-05T15:26:03.330Z'
+dateModified: '2016-07-05T15:20:34.425Z'
+title: Viisi tapaa huolehtia itsestään kesällä
 author: []
+sourcePath: _posts/2016-07-05-viisi-tapaa-huolehtia-itsestaan-kesalla.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-05-viisi-tapaa-huolehtia-itsestaan-kesalla.md
 url: viisi-tapaa-huolehtia-itsestaan-kesalla/index.html
 _type: Article
 
 ---
-Viisi tapaa huolehtia itsestään kesällä
+# Viisi tapaa huolehtia itsestään kesällä
+
+_Ihan huolella viisi minuuttia mietitty tapa elää aktiivisesti ja nauttia samalla._
 
 Hesari julkaisi [viisi treeni-ideaa niille][0], jotka uskovat tuloksiin ilman työtä. Mielestäni se kuulosti vähän pakko-oireiselta, joten mietin asian toisesta vinkkelistä. Epätreenikin on liikettä ja terveellistä.
 
