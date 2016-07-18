@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Joskus kaikki menee ihan vihkoon ja samalla ihan hyvin.
-datePublished: '2016-07-18T13:53:54.333Z'
-dateModified: '2016-07-18T13:53:52.697Z'
+datePublished: '2016-07-18T13:58:42.493Z'
+dateModified: '2016-07-18T13:58:06.317Z'
 title: Helletriathlon savolaisittain
 author: []
 sourcePath: _posts/2016-07-18-helletriathlon-savolaisittain.md
@@ -44,6 +44,7 @@ Olin sopinut kaverini kanssa, että saan kisaan lainaan 80-milliset kiekot, jott
 Tilaamani seuran kisapuku toimitettaisiin seuran teltalle, joten sen voisi kokeilla sitten paikan päällä. Sentään vanha puku tuli varalta mukaan, muttei oikeastaan ollut aiettakaan sitä käyttää, jos vain suinkin on sinnepäin tuo uusi Bioraaseri.
 
 Satula ei ollut oikeastaan enää uusi kokemus. Se oli toiselta kaverilta testikäytössä ja olin ajanut sillä jo jopa reilut neljäkymmentä kilometriä.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/81f74861-8259-4ed2-b1cb-0f7908d5414d.jpg)
 
 ## 2\. Säästä voimia
 
