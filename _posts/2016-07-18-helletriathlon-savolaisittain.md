@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Joskus kaikki menee ihan vihkoon ja samalla ihan hyvin.
-datePublished: '2016-07-18T13:46:10.245Z'
-dateModified: '2016-07-18T13:42:55.374Z'
+datePublished: '2016-07-18T13:53:54.333Z'
+dateModified: '2016-07-18T13:53:52.697Z'
 title: Helletriathlon savolaisittain
 author: []
+sourcePath: _posts/2016-07-18-helletriathlon-savolaisittain.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-18-helletriathlon-savolaisittain.md
 url: helletriathlon-savolaisittain/index.html
 _type: Article
 
