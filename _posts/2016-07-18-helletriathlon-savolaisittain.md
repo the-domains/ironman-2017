@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Joskus kaikki menee ihan vihkoon ja samalla ihan hyvin.
-datePublished: '2016-07-18T13:58:42.493Z'
-dateModified: '2016-07-18T13:58:06.317Z'
+datePublished: '2016-07-18T14:42:04.579Z'
+dateModified: '2016-07-18T14:13:39.754Z'
 title: Helletriathlon savolaisittain
 author: []
 sourcePath: _posts/2016-07-18-helletriathlon-savolaisittain.md
@@ -17,8 +17,6 @@ url: helletriathlon-savolaisittain/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5cb094f2-16b7-49c5-acac-a6bdbb054667.jpg)
-
 # Helletriathlon savolaisittain
 
 _Joskus kaikki menee ihan vihkoon ja samalla ihan hyvin._
@@ -38,21 +36,23 @@ Kolme vihjettä aloittelevalle triathlonistille:
 No eipä mennyt hyvin. Joroisilla rikoin kaikkia näitä hyviä ohjeita ja mahdollisesti vielä paria muuta. Tämä oli kolmas puolimatka ja toinen Joroinen.
 
 ## 1\. Varusteet
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5cb094f2-16b7-49c5-acac-a6bdbb054667.jpg)
 
 Olin sopinut kaverini kanssa, että saan kisaan lainaan 80-milliset kiekot, jotta ei tarvitse ajaa niillä hirveillä pyörän mukana tulleilla rohjoilla. Sijaitsivat tietenkin eri kaupungissa, mutta mikäs siinä, koska vanhempani olivat sieltä pääkaupunkiseudulle palaamassa tiistaina. No joo, tuli sitten kaverille lähtö tempoon keskiviikkona ne kiekot alla, joten sovittiin toinen toimitus kaverin kaverin töihin, josta sitten koukkaisimme ne matkaan. Tosin selvisi, että tämä herra lähtee aikaisin kotiin emmekä ole edes matkalla silloin. Onneksi joustoa tuli ja kaverin kaverin työkaveri toi kuorman pihaan asti, kun sattui olemaan muutenkin tulossa "lähelle". Kiekot irti, pakka irti, pakka kiinni, linkut paikalleen ja kiekot alle. Siinä meni 10 minuuttia, mutta jarrupaloja en ehtinyt vaihtamaan.
 
 Tilaamani seuran kisapuku toimitettaisiin seuran teltalle, joten sen voisi kokeilla sitten paikan päällä. Sentään vanha puku tuli varalta mukaan, muttei oikeastaan ollut aiettakaan sitä käyttää, jos vain suinkin on sinnepäin tuo uusi Bioraaseri.
 
 Satula ei ollut oikeastaan enää uusi kokemus. Se oli toiselta kaverilta testikäytössä ja olin ajanut sillä jo jopa reilut neljäkymmentä kilometriä.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/81f74861-8259-4ed2-b1cb-0f7908d5414d.jpg)
 
 ## 2\. Säästä voimia
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/81f74861-8259-4ed2-b1cb-0f7908d5414d.jpg)
 
 Olimme varanneet joululahjamatkan Tallinnaan keskiviikoksi ja torstaiksi kivasti ennen kisaa. Sehän meni oikein hyvin. Ensimmäisenä päivänä 27.2 ja toisena 19.5 kilometriä kävelyä. Onneksi muistimme tankata laivan aamiaisbuffetilla, sushilounaalla, kissakahvila Nurrin siidereillä ja Von Kraali Aed -ravintolan kahdella ruokalajilla keskiviikkona ja torstaina hotellin aamiaisbuffetilla, Kohvik Komeet -kattoterassin rosé-viinillä ja kakuilla, Maiasmokk Kohvikin kaali- ja kilupiirailla, kakulla ja lopulta Põrgun kolmella valtaisalla ruokalajilla sekä olutvalikoimalla. Alkoholiahan pitäisi välttää tietenkin ennen kilpailua ja suurimmaksi osaksi niin tehtiinkin, mutku...
 
 Kotona oltiin jo hyvissä ajoin juuri jälkeen yhden yöllä. Onneksi aamulla ei tarvinnut herätä aikaisin.
 
 ## 3\. Ole ajoissa
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/07efce52-1336-4793-a1b6-592a0e7ae6a0.jpg)
 
 Tietäen välimatkat, kisainfojen kestot, kisaan tulevat muutokset ja omat täydennystarpeet ehdotin, että lähtisimme meidän pihastamme hitaalla asuntoautollamme klo 15:00, jotta olemme hyvissä ajoin _ennen_ kahdeksaa perillä. Olin syönyt aamulla puuron, leivän ja lounaaksi wokkirehuja couscousilla, omnom. Auto saapui meitä noutamaan siinä neljän pintaan. Sehän meni kivasti. Huoltotauko Lahdessa vähän venyi, kun seurueemme hajaantui kahteen eri kauppaan ostamaan ihan niitä samoja keltaisia banaaneja (huom! toiset luomua) ja lisää karkkia. Karkkia meni puolisentoista pussia ja sipsejä semmoinen ihan pienoinen 120 g pussi. Nesteyttelin tietenkin pitkin päivää juomalla yhteensä pari pulloa urheilujuomaa.
 
@@ -83,6 +83,7 @@ Uinti lähti aika mukavasti. Ainoa kämmi oli kellon starttaaminen vasta mattoje
 Loppuun vielä kunnon kiri ja oma kello näytti 37:25, mikä oli lopulta sama kuin virallinen, sama kuin vuoden paras ja sama kuin puolimatkan ennätys. Hyvä hyvä. Ikäsarjan sijoitus 69\.
 
 ## T1
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d67a0a09-6631-41ce-8715-9214dda1a23f.jpg)
 
 Menestys kihahti päähän ja sain märkäpuvun hihat alas juuri ja juuri ennen omaa narikkapaikkaa. Kiittelin onneani, että leikkasin sen hemmetin ylimääräisen tarranauhan hittoon sieltä jo Vanajanlinnan jälkeen. Pussi irti, lakkia päästä, lasit mukana ja yllätys oli suuri, kun kamaa ei ollutkaan juuri ollenkaan. Talloin märkäpuvun päältäni, kypärä päähän lasit silmille, pussi rekkaan, hanskat käteen HUDi päälle ja oikeaan asentoon. Pyörä telineestä yhdellä liikkeellä ja Edgeen virta päälle. Juoksua ylämäkheen. Henki kulki hyvin eikä tuntunut satavankaan kauheasti. Ei ehkä yhtään satanut, mutta kuka noita adrenaliinipäissään muistaa.
 
