@@ -7,8 +7,8 @@ keywords: []
 description: >-
   Ihan huolella viisi minuuttia mietitty tapa elää aktiivisesti ja nauttia
   samalla.
-datePublished: '2016-07-05T15:26:03.330Z'
-dateModified: '2016-07-05T15:20:34.425Z'
+datePublished: '2016-07-19T15:45:40.200Z'
+dateModified: '2016-07-19T15:45:38.747Z'
 title: Viisi tapaa huolehtia itsestään kesällä
 author: []
 sourcePath: _posts/2016-07-05-viisi-tapaa-huolehtia-itsestaan-kesalla.md
