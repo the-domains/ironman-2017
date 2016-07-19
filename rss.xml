@@ -4,8 +4,15 @@
         <description><![CDATA[IM17 - Treeniä yhden pienen päätöksen perässä]]></description>
         <link>http://ferrix.kisakalenteri.fi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 14:12:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2016 15:46:06 GMT</lastBuildDate>
         <atom:link href="http://ferrix.kisakalenteri.fi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Viisi tapaa huolehtia itsestään kesällä]]></title>
+            <description><![CDATA[<article><h1>Viisi tapaa huolehtia itsestään kesällä</h1><p>Ihan huolella viisi minuuttia mietitty tapa elää aktiivisesti ja nauttia samalla.</p></article>]]></description>
+            <link>http://ferrix.kisakalenteri.fi/viisi-tapaa-huolehtia-itsestaan-kesalla/index.html</link>
+            <guid isPermaLink="false">e3755cf4-5485-4b35-b932-5c1203baf7b1</guid>
+            <pubDate>Tue, 19 Jul 2016 15:45:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rääkkiviikko]]></title>
             <description><![CDATA[<article><h1>Rääkkiviikko</h1><p>Puolilta päivin Suomen aikaa alkoi ehkä maailman haastavin sisäpyöräilyturnee. Olen mukana toista kertaa, koska se kannattaa.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/632098efeb5915ca10c2baef1fc102f44b9f8bf8.png"></article>]]></description>
@@ -33,13 +40,6 @@
             <link>http://ferrix.kisakalenteri.fi/henkimaailman-juttuja/index.html</link>
             <guid isPermaLink="false">1eac3157-8085-406b-bb13-a8bf39ea6e5b</guid>
             <pubDate>Tue, 19 Jul 2016 12:25:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Viisi tapaa huolehtia itsestään kesällä]]></title>
-            <description><![CDATA[<article><h1>Viisi tapaa huolehtia itsestään kesällä</h1><p>Ihan huolella viisi minuuttia mietitty tapa elää aktiivisesti ja nauttia samalla.</p></article>]]></description>
-            <link>http://ferrix.kisakalenteri.fi/viisi-tapaa-huolehtia-itsestaan-kesalla/index.html</link>
-            <guid isPermaLink="false">e3755cf4-5485-4b35-b932-5c1203baf7b1</guid>
-            <pubDate>Tue, 05 Jul 2016 15:26:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lähtöviiva kerrallaan]]></title>
