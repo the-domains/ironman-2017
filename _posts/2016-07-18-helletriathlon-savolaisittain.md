@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Joskus kaikki menee ihan vihkoon ja samalla ihan hyvin.
-datePublished: '2016-07-18T18:18:03.035Z'
-dateModified: '2016-07-18T18:17:16.361Z'
+datePublished: '2016-07-18T18:46:34.881Z'
+dateModified: '2016-07-18T18:46:28.374Z'
 title: Helletriathlon savolaisittain
 author: []
 sourcePath: _posts/2016-07-18-helletriathlon-savolaisittain.md
@@ -144,4 +144,4 @@ Tästä innostuneena kirjoitan muistakin kisoista rapsat sen mukaan, mitä muist
 
 Ihan pari tuntia oli aikaa miettiä laihduttamista. Olisin toivonut lähemmäs kuutta tuntia menevää aikaa, koska siitä riippuu osallistuminen Barcelonan Ironmanille 2017\. Muutoin se jää seuraavaan vuoteen. Toki Espoon puolimaraton tai Amsterdamin maraton saattavat heilauttaa vaakakuppia, mikäli juoksukunto kasvaa Turun puolimatkan jälkeen parissa kuukaudessa merkittävästi. Voihan se olla, että Turussa kulkee ja rohkaistun sen perusteella, mutta juuri nyt masentaa liikaa.
 
-Nyt
+Nyt siis
