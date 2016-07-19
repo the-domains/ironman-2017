@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Joskus kaikki menee ihan vihkoon ja samalla ihan hyvin.
-datePublished: '2016-07-19T11:54:55.649Z'
-dateModified: '2016-07-19T11:49:25.984Z'
+datePublished: '2016-07-19T13:53:59.014Z'
+dateModified: '2016-07-19T13:53:57.449Z'
 title: Helletriathlon savolaisittain
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-07-18-helletriathlon-savolaisittain.md
 authors: []
 publisher: null
@@ -36,7 +38,7 @@ Kolme vihjettä aloittelevalle triathlonistille:
 No eipä mennyt hyvin. Joroisilla rikoin kaikkia näitä hyviä ohjeita ja mahdollisesti vielä paria muuta. Tämä oli kolmas puolimatka ja toinen Joroinen.
 
 ## 1\. Varusteet
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5cb094f2-16b7-49c5-acac-a6bdbb054667.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2f3808873e9339500ff832fd030ab198/croprotate.jpg?cropheight=1079&cropwidth=1848&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F5cb094f2-16b7-49c5-acac-a6bdbb054667.jpg&x=0&y=0)
 
 Olin sopinut kaverini kanssa, että saan kisaan lainaan 80-milliset kiekot, jotta ei tarvitse ajaa niillä hirveillä pyörän mukana tulleilla rohjoilla. Sijaitsivat tietenkin eri kaupungissa, mutta mikäs siinä, koska vanhempani olivat sieltä pääkaupunkiseudulle palaamassa tiistaina. No joo, tuli sitten kaverille lähtö tempoon keskiviikkona ne kiekot alla, joten sovittiin toinen toimitus kaverin kaverin töihin, josta sitten koukkaisimme ne matkaan. Tosin selvisi, että tämä herra lähtee aikaisin kotiin emmekä ole edes matkalla silloin. Onneksi joustoa tuli ja kaverin kaverin työkaveri toi kuorman pihaan asti, kun sattui olemaan muutenkin tulossa "lähelle". Kiekot irti, pakka irti, pakka kiinni, linkut paikalleen ja kiekot alle. Siinä meni 10 minuuttia, mutta jarrupaloja en ehtinyt vaihtamaan.
 
