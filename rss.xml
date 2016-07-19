@@ -4,8 +4,15 @@
         <description><![CDATA[IM17 - Treeniä yhden pienen päätöksen perässä]]></description>
         <link>http://ferrix.kisakalenteri.fi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 11:55:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2016 12:25:54 GMT</lastBuildDate>
         <atom:link href="http://ferrix.kisakalenteri.fi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Henkimaailman juttuja]]></title>
+            <description><![CDATA[<article><h1>Henkimaailman juttuja</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/872e6956096c28b6e9bbd11246ca4d0ec7c26047.jpg"></article>]]></description>
+            <link>http://ferrix.kisakalenteri.fi/henkimaailman-juttuja/index.html</link>
+            <guid isPermaLink="false">1eac3157-8085-406b-bb13-a8bf39ea6e5b</guid>
+            <pubDate>Tue, 19 Jul 2016 12:25:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Helletriathlon savolaisittain]]></title>
             <description><![CDATA[<article><h1>Helletriathlon savolaisittain</h1><p>Joskus kaikki menee ihan vihkoon ja samalla ihan hyvin.</p></article>]]></description>
@@ -33,13 +40,6 @@
             <link>http://ferrix.kisakalenteri.fi/vuoden-suunnitelma/index.html</link>
             <guid isPermaLink="false">f6b7435a-ab4f-4212-8335-9eb8a99d733a</guid>
             <pubDate>Mon, 18 Jan 2016 11:25:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Henkimaailman juttuja]]></title>
-            <description><![CDATA[<h1></h1>]]></description>
-            <link>http://ferrix.kisakalenteri.fi/henkimaailman-juttuja/index.html</link>
-            <guid isPermaLink="false">1eac3157-8085-406b-bb13-a8bf39ea6e5b</guid>
-            <pubDate>Mon, 18 Jan 2016 10:06:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lähtöviiva kerrallaan]]></title>
