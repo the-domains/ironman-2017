@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Joskus kaikki menee ihan vihkoon ja samalla ihan hyvin.
-datePublished: '2016-07-19T11:39:14.179Z'
-dateModified: '2016-07-19T11:34:24.252Z'
+datePublished: '2016-07-19T11:54:55.649Z'
+dateModified: '2016-07-19T11:49:25.984Z'
 title: Helletriathlon savolaisittain
 author: []
 sourcePath: _posts/2016-07-18-helletriathlon-savolaisittain.md
@@ -71,6 +71,7 @@ Herättyämme tähtäsimme yhdeksäksi expo-alueelle, jotta minä saan täydenne
 Vielä vika kysymys: Onks teillä litkua? Ei. Eli ei sitten paikata. Ensimmäisen kerran tuubit alla, vaihtotuubia ei ole, joten huoltopullo jäi varustuksesta pois. Ite Mika Saario sanoi, että ei puhkea. Selvä homma. Onneksi eturengas on litkutettu ja takarengas manattu.
 
 Siinä kojulta poistuessani hoipertelin vielä yhden peilin rikki ihan vaan epäonnelle lällättämisen nimissä. Nopea selfie siitä ja bussille.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6dd8c835-4fc6-4f4f-8a00-1f1dd0099a73.jpg)
 
 Kilpailijabussissa Valvatukselle rullasin takin hihat ylös ja kokeilin noita hienoja kelloreiällä (ei minun kellolle riittävällä) varustettuja hihoja ja käsihän siinä alkoi sinertää. Revin hädissäni hihan pois, mutta kiristys ei lakannut. Takin hihan rullaaminen auttoi lopulta.
 
