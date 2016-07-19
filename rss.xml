@@ -4,8 +4,15 @@
         <description><![CDATA[IM17 - Treeniä yhden pienen päätöksen perässä]]></description>
         <link>http://ferrix.kisakalenteri.fi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 12:25:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2016 12:26:34 GMT</lastBuildDate>
         <atom:link href="http://ferrix.kisakalenteri.fi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Vuoden suunnitelma]]></title>
+            <description><![CDATA[<article><h1>Vuoden suunnitelma</h1><h2>3. Vantaa Triathlon, perusmatka 5.6.</h2><p>Monen vuoden aktiivisen liikunnan jälkeenkin tarvitaan kisasuunnitelma, jotta treeni maistuu joltakin</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2c125cd6c23a6de0012d8b24ffe1c0ffba91a871.jpg"></article>]]></description>
+            <link>http://ferrix.kisakalenteri.fi/vuoden-suunnitelma/index.html</link>
+            <guid isPermaLink="false">f6b7435a-ab4f-4212-8335-9eb8a99d733a</guid>
+            <pubDate>Tue, 19 Jul 2016 12:26:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Henkimaailman juttuja]]></title>
             <description><![CDATA[<article><h1>Henkimaailman juttuja</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/872e6956096c28b6e9bbd11246ca4d0ec7c26047.jpg"></article>]]></description>
@@ -33,13 +40,6 @@
             <link>http://ferrix.kisakalenteri.fi/raakkiviikko/index.html</link>
             <guid isPermaLink="false">4bef7110-0a08-4e17-8ca4-c78efd624088</guid>
             <pubDate>Mon, 08 Feb 2016 08:32:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vuoden suunnitelma]]></title>
-            <description><![CDATA[<article><h1>Vuoden suunnitelma</h1><h2>3. Vantaa Triathlon, perusmatka 5.6.</h2><p>Monen vuoden aktiivisen liikunnan jälkeenkin tarvitaan kisasuunnitelma, jotta treeni maistuu joltakin</p></article>]]></description>
-            <link>http://ferrix.kisakalenteri.fi/vuoden-suunnitelma/index.html</link>
-            <guid isPermaLink="false">f6b7435a-ab4f-4212-8335-9eb8a99d733a</guid>
-            <pubDate>Mon, 18 Jan 2016 11:25:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lähtöviiva kerrallaan]]></title>
