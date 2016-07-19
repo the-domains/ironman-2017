@@ -4,8 +4,15 @@
         <description><![CDATA[IM17 - Treeniä yhden pienen päätöksen perässä]]></description>
         <link>http://ferrix.kisakalenteri.fi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 13:54:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2016 14:12:15 GMT</lastBuildDate>
         <atom:link href="http://ferrix.kisakalenteri.fi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rääkkiviikko]]></title>
+            <description><![CDATA[<article><h1>Rääkkiviikko</h1><p>Puolilta päivin Suomen aikaa alkoi ehkä maailman haastavin sisäpyöräilyturnee. Olen mukana toista kertaa, koska se kannattaa.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/632098efeb5915ca10c2baef1fc102f44b9f8bf8.png"></article>]]></description>
+            <link>http://ferrix.kisakalenteri.fi/raakkiviikko/index.html</link>
+            <guid isPermaLink="false">4bef7110-0a08-4e17-8ca4-c78efd624088</guid>
+            <pubDate>Tue, 19 Jul 2016 14:12:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Helletriathlon savolaisittain]]></title>
             <description><![CDATA[<article><h1>Helletriathlon savolaisittain</h1><p>Joskus kaikki menee ihan vihkoon ja samalla ihan hyvin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4cbdd2fd330a599d82fc20896e5b60617fe57544.jpg"></article>]]></description>
@@ -33,13 +40,6 @@
             <link>http://ferrix.kisakalenteri.fi/viisi-tapaa-huolehtia-itsestaan-kesalla/index.html</link>
             <guid isPermaLink="false">e3755cf4-5485-4b35-b932-5c1203baf7b1</guid>
             <pubDate>Tue, 05 Jul 2016 15:26:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rääkkiviikko]]></title>
-            <description><![CDATA[<article><h1>Rääkkiviikko</h1><p>Puolilta päivin Suomen aikaa alkoi ehkä maailman haastavin sisäpyöräilyturnee. Olen mukana toista kertaa, koska se kannattaa.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/632098efeb5915ca10c2baef1fc102f44b9f8bf8.png"></article>]]></description>
-            <link>http://ferrix.kisakalenteri.fi/raakkiviikko/index.html</link>
-            <guid isPermaLink="false">4bef7110-0a08-4e17-8ca4-c78efd624088</guid>
-            <pubDate>Mon, 08 Feb 2016 08:32:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lähtöviiva kerrallaan]]></title>
