@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Joskus kaikki menee ihan vihkoon ja samalla ihan hyvin.
-datePublished: '2016-07-18T18:12:29.494Z'
-dateModified: '2016-07-18T18:12:14.871Z'
+datePublished: '2016-07-18T18:18:03.035Z'
+dateModified: '2016-07-18T18:17:16.361Z'
 title: Helletriathlon savolaisittain
 author: []
 sourcePath: _posts/2016-07-18-helletriathlon-savolaisittain.md
@@ -120,7 +120,7 @@ Ensimmäiset kolme kilometriä olivat pahimmat. Kisakeskukselta poistuva ylämä
 
 No ei tietenkään juostu koko matkaa, mutta ainakin sinne kolmeen kilsaan, neljään ja melkein viiteen, kunnes rakko ilmoitti halkeamistarpeestaan ja kaksi sataa metriä ennen viime vuoden paikkaa piti mennä metsän reunaan helpottumaan. Siitä sitten juoksua ihan koko matka, kunnes kryptoniittimäki pisti kävelylle. Ei se silti siinä vaiheessa näkynyt tahdissa juurikaan. Ohi köpötti melkein kävelytahtia joku semmoinen puhelias täti-ihminen, joka vielä ohitettuaan kysyi, että "Ootko sä se Ferrix?" No olinhan minä ja kun oltiin Facebook-tuttuja triathlonfoorumilta, minäpä lähdin juoksuun siinä seuraksi. Ensimmäinen kierros takana ja huima HelTrin kannustusjoukko ja huoltoa. Totesin Ninalle, että ei passaa luovuttaa ennen seuraavan kierroksen loppua, koska kuitenkin pitää kävellä tuonne kisakeskukselle. Taas se penteleen mäki kävellen.
 
-Toinen kierros melkein suhahti ohi ja tuli Harakkaa ja tuttua sekä minut jostain netistä tuntevaa ventovierasta ohi. Juteltiin niitä näitä. Tai siis Nina jutteli ja minä pysyin tahdissa mukana ja vähän vastailin, jotten liikaa hengästy. Kryptoniittimäki tuli taas ja minä vaihdoin kävelylle. Nina lähti siinä menojaan. En kävellyt ihan ylös asti, vaan päätin, että kierros loppuun juosten. Tasaisella kulki, mutta tuntui pahalta. Alkoi vähän tuntua siltä, että vatsa ei ehkä ole ihan parhaimmillaan. Olisko se ohittava Heimo Laukkanen omasta pakin sekaisuudesta maininitsemalla saanut psykosomaattisia oireita aikaan vai olisko ollut liikaa kaikkea? Ennen loppusuoraa tuli vastaan teräsmieheksi pukeutunut Juha Riikonen ja teräsnainen. Totesin, että ovat sekopäitä ja siitä se S siihen asuun tulee. Hulluus keventää askelta.
+Toinen kierros melkein suhahti ohi ja tuli Harakkaa ja tuttua sekä minut jostain netistä tuntevaa ventovierasta ohi. Juteltiin niitä näitä ja tuli jonkinlainen rapakka tihku, muttei se juostessa haittaa niin paljon. Tai siis Nina jutteli ja minä pysyin tahdissa mukana ja vähän vastailin, jotten liikaa hengästy. Kryptoniittimäki tuli taas ja minä vaihdoin kävelylle. Nina lähti siinä menojaan. En kävellyt ihan ylös asti, vaan päätin, että kierros loppuun juosten. Tasaisella kulki, mutta tuntui pahalta. Alkoi vähän tuntua siltä, että vatsa ei ehkä ole ihan parhaimmillaan. Olisko se ohittava Heimo Laukkanen omasta pakin sekaisuudesta maininitsemalla saanut psykosomaattisia oireita aikaan vai olisko ollut liikaa kaikkea? Ennen loppusuoraa tuli vastaan teräsmieheksi pukeutunut Juha Riikonen ja teräsnainen. Totesin, että ovat sekopäitä ja siitä se S siihen asuun tulee. Hulluus keventää askelta.
 
 Kisakeskuksen mäki kävellen, kaikki ylimääräinen taskusta pois ja avovaimolle huollossa (tuuliliivi vielä siellä, miksi?) ja juoksuksi. Sitten tapahtui joku kamala henkinen katkeaminen. Pitkää kävelypätkää ja päkiäkivun paluuta. En tiedä mikä lie ollut, mutta heikoimmat hetket ehdottomasti koin siinä toisen kilometrin aikana. Tais olla eka kerta, kun päätin kisassa luottaa pieruun ja liekö ollut paha ilma oloa haittaamassa, kun vähän koheni. Takaa tulevat selät olivat alkaneet harventua ja siitä takaa tuli tuttavallisesti juttelemaan kaveri, joka siihen vaiheeseen asti oli ollut semmoinen kisojen moikkaustuttu naama, jolle en saanut nimeä millään mieleen. No mä liityin siihen seuraan ja vaikutti siltä, että tämä YYA-henki nostaa molempien tahtia. Oli lukenut kuulemma tätä blogia ja kaikkea sellaista. Metsän reunassa alkoi tuntua voitolta, kun tiesi, että viimeisessä huollossa on kolaa tarjolla. Kryptoniittimäkeä ei voinut juosta vielä elämäni kuudennella kerralla. Siellä huipulla oli kuitenkin odottamassa teräsmies kameransa kanssa. Viimeisellä kilometritolpalla tokaisin juoksukollegalle, että nyt ei kävellä enää yhtään ja jos maalissa ei olla maksimisykealueella, siihen pitää olla todella hyvä selitys. Sen jälkeen loppui pulinat. Pari lausetta etureisikrampeista kuulin, mutta sen jälkeen rinta rinnan maaliin. Nopein kilometri minulle. Aivan mahtavaa olla perillä.
 
@@ -139,3 +139,9 @@ Menin hakemaan varustepussiani seuran teltalta ja siellä oiva toiminnanjohtajam
 Sillä ei sinänsä ole mitään väliä. Niin moni moikkaa nimeltä kisoissa ja kiittelee hyvistä jutuista ja asenteesta tuolla foorumilla, että olen jo aivan riittävän otettu. Kiitos teille, että jaksatte niitä lukea ja kiitos kannustuksesta. Kiitos myös seuran porukalle, joka jaksaa tsempata. Mä en kyllä tiedä teidän kaikkien nimiä, joten älkää pahastuko, kun kyselen niitä.
 
 Tästä innostuneena kirjoitan muistakin kisoista rapsat sen mukaan, mitä muistan, vaikka on vähän jäänyt.
+
+## Seuraavaksi
+
+Ihan pari tuntia oli aikaa miettiä laihduttamista. Olisin toivonut lähemmäs kuutta tuntia menevää aikaa, koska siitä riippuu osallistuminen Barcelonan Ironmanille 2017\. Muutoin se jää seuraavaan vuoteen. Toki Espoon puolimaraton tai Amsterdamin maraton saattavat heilauttaa vaakakuppia, mikäli juoksukunto kasvaa Turun puolimatkan jälkeen parissa kuukaudessa merkittävästi. Voihan se olla, että Turussa kulkee ja rohkaistun sen perusteella, mutta juuri nyt masentaa liikaa.
+
+Nyt
