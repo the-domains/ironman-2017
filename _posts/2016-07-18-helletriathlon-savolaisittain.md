@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Joskus kaikki menee ihan vihkoon ja samalla ihan hyvin.
-datePublished: '2016-07-18T19:45:10.337Z'
-dateModified: '2016-07-18T19:44:34.152Z'
+datePublished: '2016-07-18T19:57:28.989Z'
+dateModified: '2016-07-18T19:56:55.373Z'
 title: Helletriathlon savolaisittain
 author: []
 sourcePath: _posts/2016-07-18-helletriathlon-savolaisittain.md
@@ -66,11 +66,15 @@ Seuraavaksi iltapuuhiin leirintäalueelle ja nukkumaan siinä vähän yli puolen
 
 ## 5\. Ei mitään uutta kisassa
 
-Herättyämme tähtäsimme yhdeksäksi expo-alueelle, jotta minä saan täydennettyä geelivarastoa, kun en illalla ehtinyt. Löysin sieltä pahnanpohjimmaisia geelejä, joissa oli tarjolla ilmeisesti parhaat oksennuttajamaut. Kokeillaan siis uusia geelejä kisassa, koska se on hyvä. Sää oli niin hyvä, että heräteostin vielä yhdet Compressportin hihat mittanauhasovituksella, kun oli muka kiire. Kilpailijabussissa Valvatukselle rullasin takin hihat ylös ja kokeilin noita hienoja kelloreiällä (ei minun kellolle riittävällä) varustettuja hihoja ja käsihän siinä alkoi sinertää. Revin hädissäni hihan pois, mutta kiristys ei lakannut. Takin hihan rullaaminen auttoi lopulta.
-
-Rannassa tuli vettä kuin aisaa ja näpräilin siinä paniikinomaisesti niitä, mitä siinä nyt näprätään. Meinasi unohtua laittaa kengät pedaaleihin ennen sinisen vaihtopussin viemistä telineeseen. Vauhdissa kenkien laittoa olin kuitenkin jo eläissäni tiistaina tapahtuneen postista noudon jälkeen harjoitellut kolmisen varttia, joten kyllähän se oli kisassakin tehtävä. Uudet kompressiohihat vielä sinne märkäpuvun alle, kun ei ne pelkältään purista kuin just oikein.
+Herättyämme tähtäsimme yhdeksäksi expo-alueelle, jotta minä saan täydennettyä geelivarastoa, kun en illalla ehtinyt. Löysin sieltä pahnanpohjimmaisia geelejä, joissa oli tarjolla ilmeisesti parhaat oksennuttajamaut. Kokeillaan siis uusia geelejä kisassa, koska se on hyvä. Sää oli niin hyvä, että heräteostin vielä yhdet Compressportin hihat mittanauhasovituksella, kun oli muka kiire.
 
 Vielä vika kysymys: Onks teillä litkua? Ei. Eli ei sitten paikata. Ensimmäisen kerran tuubit alla, vaihtotuubia ei ole, joten huoltopullo jäi varustuksesta pois. Ite Mika Saario sanoi, että ei puhkea. Selvä homma. Onneksi eturengas on litkutettu.
+
+Siinä kojulta poistuessani hoipertelin vielä yhden peilin rikki ihan vaan epäonnelle lällättämisen nimissä.
+
+Kilpailijabussissa Valvatukselle rullasin takin hihat ylös ja kokeilin noita hienoja kelloreiällä (ei minun kellolle riittävällä) varustettuja hihoja ja käsihän siinä alkoi sinertää. Revin hädissäni hihan pois, mutta kiristys ei lakannut. Takin hihan rullaaminen auttoi lopulta.
+
+Rannassa tuli vettä kuin aisaa ja näpräilin siinä paniikinomaisesti niitä, mitä siinä nyt näprätään. Meinasi unohtua laittaa kengät pedaaleihin ennen sinisen vaihtopussin viemistä telineeseen. Vauhdissa kenkien laittoa olin kuitenkin jo eläissäni tiistaina tapahtuneen postista noudon jälkeen harjoitellut kolmisen varttia, joten kyllähän se oli kisassakin tehtävä. Uudet kompressiohihat vielä sinne märkäpuvun alle, kun ei ne pelkältään purista kuin just oikein.
 
 ## Valmiina kilpaan
 
