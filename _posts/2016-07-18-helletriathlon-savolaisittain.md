@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Joskus kaikki menee ihan vihkoon ja samalla ihan hyvin.
-datePublished: '2016-07-18T20:19:36.745Z'
-dateModified: '2016-07-18T20:12:03.870Z'
+datePublished: '2016-07-19T11:39:14.179Z'
+dateModified: '2016-07-19T11:34:24.252Z'
 title: Helletriathlon savolaisittain
 author: []
 sourcePath: _posts/2016-07-18-helletriathlon-savolaisittain.md
@@ -62,13 +62,13 @@ Olimme sitten paikalla aikataulun mukaisesti 20:30, joten ehdin hakea kisapuvun 
 
 Jari-Pekan pastabuffet klo 22 asti oli ollut virallinen sapuskasuunnitelma ja sinnehän me mentiin, mutta pannahinen oli kiinni siinä kymmentä vaille yksitoista. Subiin kaikki täytteet, mitä keksi ja ne huiviin levottoman väsyneen jutun ja naisväen syömäkilpailun saattelemana. 
 
-Seuraavaksi iltapuuhiin leirintäalueelle ja nukkumaan siinä vähän yli puolenyön. Kello soi tuossa 6:15 ja pikapuuro, banaani ja kahvia huiviin.
+Seuraavaksi iltapuuhiin leirintäalueelle ja nukkumaan siinä vähän yli puolenyön. Kello soi tuossa 7:15 ja pikapuuro, banaani ja kahvia huiviin.
 
 ## 5\. Ei mitään uutta kisassa
 
 Herättyämme tähtäsimme yhdeksäksi expo-alueelle, jotta minä saan täydennettyä geelivarastoa, kun en illalla ehtinyt. Löysin sieltä pahnanpohjimmaisia geelejä, joissa oli tarjolla ilmeisesti parhaat oksennuttajamaut. Kokeillaan siis uusia geelejä kisassa, koska se on hyvä. Sää oli niin hyvä, että heräteostin vielä yhdet Compressportin hihat mittanauhasovituksella, kun oli muka kiire.
 
-Vielä vika kysymys: Onks teillä litkua? Ei. Eli ei sitten paikata. Ensimmäisen kerran tuubit alla, vaihtotuubia ei ole, joten huoltopullo jäi varustuksesta pois. Ite Mika Saario sanoi, että ei puhkea. Selvä homma. Onneksi eturengas on litkutettu. Takarengaskin tuli manattua sitten.
+Vielä vika kysymys: Onks teillä litkua? Ei. Eli ei sitten paikata. Ensimmäisen kerran tuubit alla, vaihtotuubia ei ole, joten huoltopullo jäi varustuksesta pois. Ite Mika Saario sanoi, että ei puhkea. Selvä homma. Onneksi eturengas on litkutettu ja takarengas manattu.
 
 Siinä kojulta poistuessani hoipertelin vielä yhden peilin rikki ihan vaan epäonnelle lällättämisen nimissä. Nopea selfie siitä ja bussille.
 
