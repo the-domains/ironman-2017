@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Joskus kaikki menee ihan vihkoon ja samalla ihan hyvin.
-datePublished: '2016-07-18T18:46:34.881Z'
-dateModified: '2016-07-18T18:46:28.374Z'
+datePublished: '2016-07-18T19:45:10.337Z'
+dateModified: '2016-07-18T19:44:34.152Z'
 title: Helletriathlon savolaisittain
 author: []
 sourcePath: _posts/2016-07-18-helletriathlon-savolaisittain.md
@@ -109,7 +109,7 @@ Pyörän loppuaika 02:57:09 eli noin 17 minuuttia huonommin kuin viime vuonna.
 
 ## T2
 
-Maa-altistus paljaille varpaille tuntui aika pahalta. Meikäläisen pyöräteline oli tietenkin siellä viimeisenä, joten piti tasapainoilla sen kanssa ennen kuin pääsi juoksemaan ihan mies ja pyörä. Hörppy vettä, ylijäämägeelit pyöräpussista pois, telineelle hop, HUD vaimolle aidan läpi ja kohti narikkaa. Niin, kaverithan sen pussin sinne vei. Missä se on? Onneksi ystävällinen toimitsija kertoi, että toiselle puolelle ja toinen sanoi, että alarivi. Lippis päähän. Kengät pois pussista, hanskat ja kypärä pussiin. Meinasin, että seisten tehdään tämä, mutta sukat piti saada jalkaan ja jalkoja särki sen verran, että pieni helpotus ja istuen kengät jalkaan. Hoplaa ylös ja juoksemaan.
+Maa-altistus paljaille varpaille tuntui aika pahalta. Meikäläisen pyöräteline oli tietenkin siellä viimeisenä, joten piti tasapainoilla sen kanssa ennen kuin pääsi juoksemaan ihan mies ja jalkojen jämät. Hörppy vettä, ylijäämägeelit pyöräpussista pois, telineelle hop, HUD vaimolle aidan läpi ja kohti narikkaa. Niin, kaverithan sen pussin sinne vei. Missä se on? Onneksi ystävällinen toimitsija kertoi, että toiselle puolelle ja toinen sanoi, että alarivi. Lippis päähän. Kengät pois pussista, hanskat ja kypärä pussiin. Meinasin, että seisten tehdään tämä, mutta sukat piti saada jalkaan ja jalkoja särki sen verran, että pieni helpotus ja istuen kengät jalkaan. Hoplaa ylös ja juoksemaan.
 
 Toiseen vaihtoon meni 00:05:20\. Puolimatkalla jalat ovat aina olleet niin tohjona, että kenkiä ei saa jalkaan. Surkea, mutta silti puolimatkojen paras.
 
@@ -144,4 +144,4 @@ Tästä innostuneena kirjoitan muistakin kisoista rapsat sen mukaan, mitä muist
 
 Ihan pari tuntia oli aikaa miettiä laihduttamista. Olisin toivonut lähemmäs kuutta tuntia menevää aikaa, koska siitä riippuu osallistuminen Barcelonan Ironmanille 2017\. Muutoin se jää seuraavaan vuoteen. Toki Espoon puolimaraton tai Amsterdamin maraton saattavat heilauttaa vaakakuppia, mikäli juoksukunto kasvaa Turun puolimatkan jälkeen parissa kuukaudessa merkittävästi. Voihan se olla, että Turussa kulkee ja rohkaistun sen perusteella, mutta juuri nyt masentaa liikaa.
 
-Nyt siis
+Nyt siis triathlonkausi loppuun asti uintia ja juoksua painottaen ja sitten juoksutreeniä ja salia uintilihasten säilyttämiseksi.
