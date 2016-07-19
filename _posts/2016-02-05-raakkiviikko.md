@@ -3,21 +3,20 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-08T08:32:37.534Z'
-dateModified: '2016-02-06T07:16:48.258Z'
+description: >-
+  Puolilta päivin Suomen aikaa alkoi ehkä maailman haastavin sisäpyöräilyturnee.
+  Olen mukana toista kertaa, koska se kannattaa.
+datePublished: '2016-07-19T14:12:11.318Z'
+dateModified: '2016-07-19T13:58:42.815Z'
 title: Rääkkiviikko
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-02-05-raakkiviikko.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
+starred: false
 url: raakkiviikko/index.html
 _type: Article
 
