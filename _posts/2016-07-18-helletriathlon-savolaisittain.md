@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Joskus kaikki menee ihan vihkoon ja samalla ihan hyvin.
-datePublished: '2016-07-18T20:11:42.591Z'
-dateModified: '2016-07-18T19:57:52.459Z'
+datePublished: '2016-07-18T20:19:36.745Z'
+dateModified: '2016-07-18T20:12:03.870Z'
 title: Helletriathlon savolaisittain
 author: []
 sourcePath: _posts/2016-07-18-helletriathlon-savolaisittain.md
@@ -95,7 +95,7 @@ Maton ylitys 3:25 eli se saattoi nyt olla kaikkien aikojen vaihto numero 1\. Ik�
 
 ## Pyöräily
 
-Sade oli laantunut eikä sitä oikeastaan pyöräilyn aikana enää juuri ollut. Satulaan hyppääminen ei multa vielä onnistu vauhdissa, mutta paljaat varpaat kenkäin päällä polkeminen alkoi sujua. Oikea jalka kenkään sadan metrin matkalla... no melkein, mutta voi sillä jo polkiessa nostaa. Vasemman kimppuun. Missä helvetissä tässä on se reikä jalalle? No on sentään. Miksi tää jalka ei mäne tänne? Auttasko kädellä? No hyvin vähän, kyllä tällä melkein polkee. Autetaas kädellä lisää. Jaa vedin sitten tarran kokonaan irti. Oho, ollaan jo Joroisten käännöksessä, vasen muuten hyvin, mutta tarraa ei saa kiinni, oikeassa tarra. Antaa nyt olla. Jengiä tuli ohi koko ajan, kun ne huonosti kelluvat hyvät polkijat pääsivät elementtiinsä.
+Sade oli laantunut eikä sitä oikeastaan pyöräilyn aikana enää juuri ollut. Satulaan hyppääminen ei multa vielä onnistu vauhdissa, mutta paljaat varpaat kenkäin päällä polkeminen alkoi sujua. Oikea jalka kenkään sadan metrin matkalla... no melkein, mutta voi sillä jo polkiessa nostaa. Vasemman kimppuun. Missä helvetissä tässä on se reikä jalalle? No on sentään. Miksi tää jalka ei mäne tänne? Auttasko kädellä? No hyvin vähän, kyllä tällä melkein polkee. Autetaas kädellä lisää. Jaa vedin sitten tarran kokonaan irti. Oho, ollaan jo Joroisten käännöksessä, vasen muuten hyvin, mutta tarraa ei saa kiinni, oikeassa tarra auki. Antaa nyt olla. Jengiä tuli ohi koko ajan, kun ne huonosti kelluvat hyvät polkijat pääsivät elementtiinsä.
 
 Valvatuksen jälkeen oli aika ottaa hetki iisimmin, vetää oikea tarra kiinni ja sitten vielä iisimmin räplätä vasen tarra lenkkiinsä ja kiinni. Vihdoin voi alkaa oikeesti pyörittää. Sykkeet oli koholla, mutta henki kulki. Voimia säästäen eteenpäin. Espanjassa opitulla varmuudella vielä se käännös oikeallekin oikein rohkeasti, mutta tien kosteutta huomioiden. Ensimmäinen kolmannes suhahti nopeasti ohi ja alle tuntiin, kuten sopi odottaa. Vieläkin katsoin sykkeitä ja watteja siihen malliin, että säästellään. Juuri ennen ensimmäistä huoltoa totesin, että kai se olis geeli hyvä ottaa ja siinähän se huolto tulikin. Vesi matkaan ylimääräiselle paikalle ja torpedon täyttöön. Ylimääräinen pullo ei tyhjentynyt sinne kokonaan ja ei nyt tullut ihan selväksi se drop zonen päättyminen, joten oikean kannikan taa takaisin.
 
