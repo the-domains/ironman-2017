@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Joskus kaikki menee ihan vihkoon ja samalla ihan hyvin.
-datePublished: '2016-07-18T19:57:28.989Z'
-dateModified: '2016-07-18T19:56:55.373Z'
+datePublished: '2016-07-18T20:11:42.591Z'
+dateModified: '2016-07-18T19:57:52.459Z'
 title: Helletriathlon savolaisittain
 author: []
 sourcePath: _posts/2016-07-18-helletriathlon-savolaisittain.md
@@ -68,9 +68,9 @@ Seuraavaksi iltapuuhiin leirintäalueelle ja nukkumaan siinä vähän yli puolen
 
 Herättyämme tähtäsimme yhdeksäksi expo-alueelle, jotta minä saan täydennettyä geelivarastoa, kun en illalla ehtinyt. Löysin sieltä pahnanpohjimmaisia geelejä, joissa oli tarjolla ilmeisesti parhaat oksennuttajamaut. Kokeillaan siis uusia geelejä kisassa, koska se on hyvä. Sää oli niin hyvä, että heräteostin vielä yhdet Compressportin hihat mittanauhasovituksella, kun oli muka kiire.
 
-Vielä vika kysymys: Onks teillä litkua? Ei. Eli ei sitten paikata. Ensimmäisen kerran tuubit alla, vaihtotuubia ei ole, joten huoltopullo jäi varustuksesta pois. Ite Mika Saario sanoi, että ei puhkea. Selvä homma. Onneksi eturengas on litkutettu.
+Vielä vika kysymys: Onks teillä litkua? Ei. Eli ei sitten paikata. Ensimmäisen kerran tuubit alla, vaihtotuubia ei ole, joten huoltopullo jäi varustuksesta pois. Ite Mika Saario sanoi, että ei puhkea. Selvä homma. Onneksi eturengas on litkutettu. Takarengaskin tuli manattua sitten.
 
-Siinä kojulta poistuessani hoipertelin vielä yhden peilin rikki ihan vaan epäonnelle lällättämisen nimissä.
+Siinä kojulta poistuessani hoipertelin vielä yhden peilin rikki ihan vaan epäonnelle lällättämisen nimissä. Nopea selfie siitä ja bussille.
 
 Kilpailijabussissa Valvatukselle rullasin takin hihat ylös ja kokeilin noita hienoja kelloreiällä (ei minun kellolle riittävällä) varustettuja hihoja ja käsihän siinä alkoi sinertää. Revin hädissäni hihan pois, mutta kiristys ei lakannut. Takin hihan rullaaminen auttoi lopulta.
 
