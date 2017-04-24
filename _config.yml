@@ -1,7 +1,18 @@
+layout_spectrum: 0.2907998585069349
+typography_spectrum: 0.5487758711894218
+color:
+  brandColors:
+    - '#ffffff'
+    - '#d8002a'
+    - '#ff0000'
+    - '#aa0000'
+    - '#800000'
+  brandStrength: 0.07945647838894315
+  lightness: 0.35426535651613356
+  saturation: 0.1682027442236938
+  rhythmicContrast: 0.46164367722365823
 name: Ironman 2018
 favicon: null
-layout_spectrum: 0.39383
-typography_spectrum: 0.30614
 title: IM18
 cta:
   domain: null
@@ -15,17 +26,6 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#d8002a'
-    - '#ff0000'
-    - '#aa0000'
-    - '#800000'
-  brandStrength: 0.3125
-  lightness: 0.5625
-  saturation: 0.375
-  rhythmicContrast: 0.75
 purpose: []
 content: []
 description: Treeniä yhden pienen päätöksen perässä
