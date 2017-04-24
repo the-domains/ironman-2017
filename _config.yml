@@ -2,7 +2,7 @@ name: Ironman 2017
 favicon: null
 layout_spectrum: 0.39383
 typography_spectrum: 0.30614
-title: IM17 - Treeniä yhden pienen päätöksen perässä
+title: IM18 - Treeniä yhden pienen päätöksen perässä
 cta:
   domain: null
   bucket: null
@@ -26,7 +26,9 @@ color:
   lightness: 0.5625
   saturation: 0.375
   rhythmicContrast: 0.75
-purpose:
-  - name: follow
-    item: null
-    url: null
+purpose: []
+content: []
+description: ''
+github: true
+author:
+  name: Ferrix Hovi
