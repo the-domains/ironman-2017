@@ -3,13 +3,13 @@ inFeed: false
 hasPage: true
 inLanguage: null
 keywords: []
-description: ''
-title: ''
-dateModified: '2017-04-24T06:46:11.806Z'
+description: Niin minä päätin.
+title: Minä olen Ironman 2018
+dateModified: '2017-04-24T06:48:37.204Z'
 tags:
   - blogi
   - ferrix
-datePublished: '2017-04-24T06:46:12.435Z'
+datePublished: '2017-04-24T06:48:37.673Z'
 sourcePath: _posts/2015-09-03-mina-olen-ironman-2017.md
 authors: []
 publisher: {}
@@ -21,12 +21,9 @@ url: mina-olen-ironman-2017/index.html
 _type: WebPage
 
 ---
+# Minä olen Ironman 2018
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/52e09000428fa0574a706ac86a06e580a7e07504.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7b069fad850859d0d4762822b757567df5708965.jpg)
-
----
-
-# Minä olen Ironman 2018
 
 Niin minä päätin.
 
