@@ -1,13 +1,13 @@
 ---
 title: Levy ykkösellä
-dateModified: '2017-07-18T17:41:47.652Z'
+datePublished: '2017-07-18T18:05:26.901Z'
+dateModified: '2017-07-18T18:05:25.422Z'
 publisher: {}
 author: []
 inFeed: true
 hasPage: true
 description: Kävin Vierumäellä toteamassa treenaamattomuuden tuhot
 via: {}
-datePublished: '2017-07-18T17:41:49.596Z'
 starred: false
 datePublishedOriginal: '2017-07-18T17:41:49.596Z'
 sourcePath: _posts/2017-07-18-levy-ykkosella.md
@@ -21,8 +21,7 @@ _Kävin Vierumäellä toteamassa treenaamattomuuden tuhot_
 
 ---
 
-Lähdin Vierumäelle mökillä vietetyn viikon jälkeen. Treeniä ehti tulla pohjalle ihan hyvin, kunhan sain juhannuksen jälkeen maantiepyörään uudet ulkokumit ja keskiviikkona poljin Inkoosta mökille Hankoon testatakseni pyörää.
-![Inkoon ja Hangon välistä löytyi jäätelöä](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ed7e72a-c7db-4820-b2b3-86ac23c38b92.jpg)
+Lähdin Vierumäelle mökillä vietetyn viikon jälkeen. Treeniä ehti tulla sillä viikolle pohjalle ihan hyvin, kunhan sain juhannuksen jälkeen maantiepyörään uudet ulkokumit ja keskiviikkona poljin Inkoosta mökille Hankoon testatakseni pyörää. Muutenhan kausi on ollut sinne päin. ![Inkoon ja Hangon välistä löytyi jäätelöä](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ed7e72a-c7db-4820-b2b3-86ac23c38b92.jpg)
 
 Cervélo sai Vantaalla siipeensä ja jouduin tilaamaan uuden etuvaihtajan. Koko vaihtajan poistaminen olisi voinut olla jossain muussa kisassa vaihtoehto, mutta Vierumäki on reittinä mäkisimmästä päästä. Rahat tiskiin ja vaihtaja vaihtoon.
 
@@ -70,6 +69,6 @@ Toisella kierroksella hölköttelyn ja kävelyn kiertokulku jatkuu. Vettä liss�
 
 ## Summa summarum
 
-Talven heikosta treenistä johtuen kaikki on hidastettua. Kalusto on päivitetty niin hyvin, että mulla on kisan hitain levykiekko. Eli jatkossa homma on tehtävä treenillä. Juoksussa askel on samalla tavalla lennokas kuin viime vuonna, mutta ilma on korvattu sulatejuustolla. Damagea on tullut. 
+Talven heikosta treenistä johtuen kaikki on hidastettua. Kalusto on päivitetty niin hyvin, että mulla on kisan hitain levykiekko. Eli jatkossa homma on tehtävä treenillä. Juoksussa askel on samalla tavalla lennokas kuin viime vuonna, mutta ilma on korvattu sulatejuustolla. Damagea on tullut.
 
 Pari päivää myöhemmin sovittiin Panu Liedon kanssa, että valmennusyhteistyö alkaa viikolla 30\. Nyt mennään Barcelonaan 2018 oikeesti!
