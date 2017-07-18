@@ -1,33 +1,34 @@
 ---
 inLanguage: null
-starred: false
 keywords: []
-description: Tavoitteet seuraavalle kaudelle on asetettu. Miten minä ne asetin?
+description: >-
+  Aion karistaa vuodessa puolitoista tuntia triathlonin puolimatkan
+  ennätyksestäni. Isot pojat sanovat realistiseksi, mutta kunnianhimoiseksi.
+  Siltä minustakin tuntuu.
 title: Miten tavoitteeseen päästään?
-dateModified: '2015-09-07T20:02:24.733Z'
+dateModified: '2017-07-18T09:08:07.161Z'
 tags:
   - ''
-datePublished: '2015-10-09T10:06:53.058Z'
+datePublished: '2017-07-18T09:08:07.872Z'
 sourcePath: _posts/2015-09-03-miten-tavoitteeseen-paastaan.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-inFeed: true
+publisher: {}
+author:
+  - name: ''
+    url: ''
 hasPage: true
-inNav: false
+via: {}
+inFeed: true
+starred: false
+datePublishedOriginal: '2015-10-09T10:06:53.058Z'
 url: miten-tavoitteeseen-paastaan/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4421f2d1-f3f7-4036-8374-34789be29ccc.JPG)
-
 # Miten tavoitteeseen päästään?
 
 _Aion karistaa vuodessa puolitoista tuntia triathlonin puolimatkan ennätyksestäni. Isot pojat sanovat realistiseksi, mutta kunnianhimoiseksi. Siltä minustakin tuntuu._
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb7a37f4216401c096df4656d6da21886662df06.jpg)
 
 Mistä tuo numero tuohon tuli? Miten tavoite asetetaan? Tärkeintä on konkretia ja realistisuus. Pitää tietää, mitä ollaan tekemässä, millä tavotteella, mihin mennessä, millä menetelmällä ja mistä osista suunnitelma koostuu. Tiedän nykyisen aikani, paljonko sitä varten tuli harjoiteltua, mikä tuntui pahalta ja mikä hyvältä.
 
