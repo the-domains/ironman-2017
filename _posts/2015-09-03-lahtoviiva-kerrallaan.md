@@ -10,9 +10,9 @@ description: >-
 author:
   - name: ''
     url: ''
-datePublished: '2017-07-18T09:11:02.875Z'
+datePublished: '2017-07-18T10:13:15.803Z'
 title: Lähtöviiva kerrallaan
-dateModified: '2017-07-18T09:11:02.163Z'
+dateModified: '2017-07-18T10:13:15.036Z'
 tags:
   - pohja
   - tavoite
@@ -31,10 +31,9 @@ _context: 'http://schema.org'
 # Lähtöviiva kerrallaan
 
 _Jossain vaiheessa Joroisen puolimatkan triathlonia tänä vuonna 2015 syntyi ajatus: "Jos tämä kerran on niin helppoa, miksi en ottaisi tavoitteeksi täyden matkan kilpailua."_
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/358073a0d2afb9d1f6d6c620d6e6f017f0b8568e.jpg)
 
 ---
-
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/358073a0d2afb9d1f6d6c620d6e6f017f0b8568e.jpg)
 
 Olen sen verran opiskellut itsensä johtamista, lukenut valmentajien oppaita ja kaikenlaista self-helppiä, että ymmärrän kaiken lähtevän tavoitteen asettelusta. Ainoa päivä muuttua on tänään, koska huomenna sitä ei saa aloitettua. Aivan siinä pyörän selässä en kovinkaan tarkasti käynyt ajattelemaan, mutta olen nyt jo toista kuukautta hionut päämäärää kirkkaammaksi vähän kerrallaan.
 
