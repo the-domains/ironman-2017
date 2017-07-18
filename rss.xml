@@ -4,9 +4,9 @@
         <description><![CDATA[IM18]]></description>
         <link>http://ferrix.kisakalenteri.fi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 18 Jul 2017 10:05:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2017 10:05:49 GMT</lastBuildDate>
         <atom:link href="http://ferrix.kisakalenteri.fi/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Jul 2017 10:05:02 GMT</pubDate>
+        <pubDate>Tue, 18 Jul 2017 10:05:48 GMT</pubDate>
         <item>
             <title><![CDATA[Takamatkan kausi]]></title>
             <description><![CDATA[<h1>Takamatkan kausi</h1>,<p><em>Luovuin IM17 -tavoitteesta, mutta luovuin ehkä liikaa. Niin ja menihän se Amsterdamin maraton ihan vihkoon.</em></p>]]></description>
@@ -34,6 +34,13 @@
             <link>http://ferrix.kisakalenteri.fi/helletriathlon-savolaisittain/index.html</link>
             <guid isPermaLink="false">72374321-6519-470b-83b8-7380807da00c</guid>
             <pubDate>Tue, 19 Jul 2016 13:53:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Henkimaailman juttuja]]></title>
+            <description><![CDATA[<h1>Henkimaailman juttuja</h1>,<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/872e6956096c28b6e9bbd11246ca4d0ec7c26047.jpg">,<p><em>Monet triathlonistit mittaavat yhtä jos toista suorituksestaan. Kuntoilijat saattavat mitata sykettä, mutta mitä oikeastaan voi ja kannattaa mitata?</em></p>]]></description>
+            <link>http://ferrix.kisakalenteri.fi/henkimaailman-juttuja/index.html</link>
+            <guid isPermaLink="false">1eac3157-8085-406b-bb13-a8bf39ea6e5b</guid>
+            <pubDate>Tue, 19 Jul 2016 12:25:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Miten tavoitteeseen päästään?]]></title>
