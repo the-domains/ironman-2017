@@ -6,8 +6,8 @@ keywords: []
 description: >-
   Puolilta päivin Suomen aikaa alkoi ehkä maailman haastavin sisäpyöräilyturnee.
   Olen mukana toista kertaa, koska se kannattaa.
-datePublished: '2017-07-18T09:10:43.050Z'
-dateModified: '2017-07-18T09:10:42.200Z'
+datePublished: '2017-07-18T10:04:52.639Z'
+dateModified: '2017-07-18T10:04:51.991Z'
 title: Rääkkiviikko
 author:
   - name: ''
@@ -28,6 +28,8 @@ _Puolilta päivin Suomen aikaa alkoi ehkä maailman haastavin sisäpyöräilytur
 
 ---
 
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c917236842097722caae42fca6df7cb726329332.png)
+
 [Tour of Sufferlandria][0] on yhdeksän rankkaa treenipäivää sisäpyöräilyä. Sain tuolla viikon treenillä paljon ryhtiä viime kaudella. FTP eli kynnysteho nousi viidenneksellä, minkä jälkeen ulkopyöräilykausi alkoi aivan uudella teholla. Tänä vuonna reitti on vaihtunut ja vaikuttaa melkoisen tuskalliselta.
 
 Näiden treenivideoiden tuottajalla on vuosittainen rääkkikilpailu, jossa haastetaan lähinnä itseään joko fillarin harjoitusvastuksella tai kuntopyörällä oman kärsimysluolan tai miksikä treenihuonettaan nimittää suojissa. Itse käytän osallistumiseen maantiepyörää, Kickr harjoitusvastusta ja TrainerRoad-ohjelmaa tietokoneellani. Sufferfestillä on myös kännykkäsovellus, joka toimii kuukausimaksulla. En ole sitä kokeillut, kun se toimii vain iLaitteilla. TrainerRoadia käyttäessä videot imuroidaan koneelle, jota aiotaan treenissä käyttää, raahataan videotiedosto ikkunaan ja aloitetaan polkimien pyörittäminen ja hikoilu.
@@ -36,7 +38,6 @@ Turnee kestää yhdeksän päivää ja sen aikana on luvassa yksi tai kaksi tree
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/632098efeb5915ca10c2baef1fc102f44b9f8bf8.png)
 
 Tämän vuoden ensimmäinen vaihe on ISLAGIATT eli It seemed like a good idea at the time. Odotettavissa on kahden tunnin kiipeämispainotteinen rääkki. Viime vuonna sama treeni oli loppupuolella ja siitä jäi niin hirveä fiilis, että olen mielummin treenannut Sufferfestin muilla videoilla. Odotan kauhulla. Tämä on viikon pisin treeni, joten tavallaan jo alusta ollaan voiton puolella.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c917236842097722caae42fca6df7cb726329332.png)
 
 **Jos haluat osallistua, [klikkaa tästä][1]**.
 
