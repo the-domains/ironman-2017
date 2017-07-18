@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inLanguage: null
 keywords: []
 description: >-
   Monen vuoden aktiivisen liikunnan jälkeenkin tarvitaan kisasuunnitelma, jotta
   treeni maistuu joltakin
-datePublished: '2017-07-18T10:07:17.959Z'
-dateModified: '2017-07-18T10:07:17.221Z'
+datePublished: '2017-07-18T10:07:33.717Z'
+dateModified: '2017-07-18T10:07:33.107Z'
 title: Vuoden suunnitelma
 author:
   - name: ''
@@ -19,7 +19,7 @@ via: {}
 starred: false
 datePublishedOriginal: '2016-07-19T12:26:05.529Z'
 url: vuoden-suunnitelma/index.html
-_type: Blurb
+_type: Article
 
 ---
 # Vuoden suunnitelma
