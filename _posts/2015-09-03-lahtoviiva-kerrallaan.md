@@ -1,5 +1,5 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inLanguage: null
 keywords: []
@@ -10,9 +10,9 @@ description: >-
 author:
   - name: ''
     url: ''
-datePublished: '2017-07-18T09:05:30.710Z'
+datePublished: '2017-07-18T09:06:40.149Z'
 title: Lähtöviiva kerrallaan
-dateModified: '2017-07-18T09:05:29.983Z'
+dateModified: '2017-07-18T09:06:39.422Z'
 tags:
   - pohja
   - tavoite
