@@ -6,8 +6,8 @@ keywords: []
 description: >-
   Monen vuoden aktiivisen liikunnan jälkeenkin tarvitaan kisasuunnitelma, jotta
   treeni maistuu joltakin
-datePublished: '2017-07-18T08:49:21.330Z'
-dateModified: '2017-07-18T08:49:20.502Z'
+datePublished: '2017-07-18T10:07:17.959Z'
+dateModified: '2017-07-18T10:07:17.221Z'
 title: Vuoden suunnitelma
 author:
   - name: ''
@@ -26,6 +26,8 @@ _type: Blurb
 
 _Monen vuoden aktiivisen liikunnan jälkeenkin tarvitaan kisasuunnitelma, jotta treeni maistuu joltakin_
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2c125cd6c23a6de0012d8b24ffe1c0ffba91a871.jpg)
+
+---
 
 ## 3\. Vantaa Triathlon, perusmatka 5.6\.
 
