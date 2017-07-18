@@ -5,11 +5,11 @@ inLanguage: null
 keywords: []
 description: Niin minä päätin.
 title: Minä olen Ironman 2018
-dateModified: '2017-04-24T06:48:37.204Z'
+dateModified: '2017-07-18T08:43:47.857Z'
 tags:
   - blogi
   - ferrix
-datePublished: '2017-04-24T06:48:37.673Z'
+datePublished: '2017-07-18T08:43:48.589Z'
 sourcePath: _posts/2015-09-03-mina-olen-ironman-2017.md
 authors: []
 publisher: {}
