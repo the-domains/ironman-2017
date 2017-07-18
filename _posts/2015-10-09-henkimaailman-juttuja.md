@@ -1,27 +1,29 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-07-19T12:25:51.117Z'
-dateModified: '2016-07-19T12:25:49.903Z'
+description: >-
+  Monet triathlonistit mittaavat yhtä jos toista suorituksestaan. Kuntoilijat
+  saattavat mitata sykettä, mutta mitä oikeastaan voi ja kannattaa mitata?
+datePublished: '2017-07-18T08:50:16.776Z'
+dateModified: '2017-07-18T08:50:16.078Z'
 title: Henkimaailman juttuja
 sourcePath: _posts/2015-10-09-henkimaailman-juttuja.md
 author:
   - name: ''
     url: ''
 authors: []
-publisher: null
+publisher: {}
+via: {}
 starred: false
+datePublishedOriginal: '2016-07-19T12:25:51.117Z'
 url: henkimaailman-juttuja/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/872e6956096c28b6e9bbd11246ca4d0ec7c26047.jpg)
-
 # Henkimaailman juttuja
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/872e6956096c28b6e9bbd11246ca4d0ec7c26047.jpg)
 
 _Monet triathlonistit mittaavat yhtä jos toista suorituksestaan. Kuntoilijat saattavat mitata sykettä, mutta mitä oikeastaan voi ja kannattaa mitata?_
 
@@ -85,6 +87,6 @@ Lajia aloittaessani tutkin vaihtoehtoja pitkään ja valitsin Garminin laitteet 
 
 Toisessa pyörässäni on Garminin yhdistetty kadenssi- ja nopeusmittari, joka perustuu siis magneetteihin. Maantiepyörässä Garminin nopeusmittari ja Vector 2S -polkimet. Sisätreeneissä käytän Garminin kadenssianturia, koska Wahoon Kickr-trainerini tuottaa teho- ja nopeusmitat eikä polkimista saa pelkkää kadenssia samaan aikaan.
 
-Mikäli olet itsellesi laitteita ostamassa, kannattaa käydä markkinat läpi nopeasti ja vilkaista vaikka mitä [DC Rainmaker][0] asioista sanoo. Asiat tuntuvat muuttuvan nopeasti. Kannattaa kuitenkin huomioida, että minkä hyvänsä laitteen ostatkin, sen kannattaa olla ANT+ tai Bluetooth Smart, koska oikeastaan millään muilla vaihtoehdoilla ei ole kovin auvoista tulevaisuutta. Sen jälkeen tee kaikki hankintasi niin, että laitteet varmasti sopivat yhteen. 
+Mikäli olet itsellesi laitteita ostamassa, kannattaa käydä markkinat läpi nopeasti ja vilkaista vaikka mitä [DC Rainmaker][0] asioista sanoo. Asiat tuntuvat muuttuvan nopeasti. Kannattaa kuitenkin huomioida, että minkä hyvänsä laitteen ostatkin, sen kannattaa olla ANT+ tai Bluetooth Smart, koska oikeastaan millään muilla vaihtoehdoilla ei ole kovin auvoista tulevaisuutta. Sen jälkeen tee kaikki hankintasi niin, että laitteet varmasti sopivat yhteen.
 
 [0]: http://www.dcrainmaker.com/
