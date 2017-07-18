@@ -4,9 +4,16 @@
         <description><![CDATA[IM18]]></description>
         <link>http://ferrix.kisakalenteri.fi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 18 Jul 2017 10:32:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2017 17:41:52 GMT</lastBuildDate>
         <atom:link href="http://ferrix.kisakalenteri.fi/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Jul 2017 10:32:00 GMT</pubDate>
+        <pubDate>Tue, 18 Jul 2017 17:41:50 GMT</pubDate>
+        <item>
+            <title><![CDATA[Levy ykkösellä]]></title>
+            <description><![CDATA[<h1>Levy ykkösellä</h1>,<p><em>Kävin Vierumäellä toteamassa treenaamattomuuden tuhot</em></p>]]></description>
+            <link>http://ferrix.kisakalenteri.fi/levy-ykkosella/index.html</link>
+            <guid isPermaLink="false">77b06ef0-3df1-4e6d-81df-a357184fdfee</guid>
+            <pubDate>Tue, 18 Jul 2017 17:41:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Takamatkan kausi]]></title>
             <description><![CDATA[<h1>Takamatkan kausi</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b3ac492-23a1-47d5-a04b-a6fc9040d0d6.jpg">,<p><em>Luovuin IM17 -tavoitteesta, mutta luovuin ehkä liikaa. Niin ja menihän se Amsterdamin maraton ihan vihkoon.</em></p>]]></description>
