@@ -6,8 +6,8 @@ keywords: []
 description: >-
   Puolilta päivin Suomen aikaa alkoi ehkä maailman haastavin sisäpyöräilyturnee.
   Olen mukana toista kertaa, koska se kannattaa.
-datePublished: '2017-07-18T10:04:52.639Z'
-dateModified: '2017-07-18T10:04:51.991Z'
+datePublished: '2017-07-18T10:05:01.421Z'
+dateModified: '2017-07-18T10:05:00.743Z'
 title: Rääkkiviikko
 author:
   - name: ''
