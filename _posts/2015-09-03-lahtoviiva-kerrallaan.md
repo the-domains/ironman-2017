@@ -1,37 +1,37 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: Katsaus menneisyyteen ja suunta kohti Ironmania
-author: []
-datePublished: '2015-10-09T10:06:53.059Z'
+description: >-
+  Jossain vaiheessa Joroisen puolimatkan triathlonia tänä vuonna 2015 syntyi
+  ajatus: "Jos tämä kerran on niin helppoa, miksi en ottaisi tavoitteeksi täyden
+  matkan kilpailua."
+author:
+  - name: ''
+    url: ''
+datePublished: '2017-07-18T09:05:30.710Z'
 title: Lähtöviiva kerrallaan
-dateModified: '2015-10-09T09:45:25.723Z'
+dateModified: '2017-07-18T09:05:29.983Z'
 tags:
   - pohja
   - tavoite
   - tausta
 sourcePath: _posts/2015-09-03-lahtoviiva-kerrallaan.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
+via: {}
+starred: false
+datePublishedOriginal: '2015-10-09T10:06:53.059Z'
 url: lahtoviiva-kerrallaan/index.html
 _type: Article
 _context: 'http://schema.org'
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/81d91cc2-2c1c-4f72-aac1-8764871c2533.JPG)
-
 # Lähtöviiva kerrallaan
 
 _Jossain vaiheessa Joroisen puolimatkan triathlonia tänä vuonna 2015 syntyi ajatus: "Jos tämä kerran on niin helppoa, miksi en ottaisi tavoitteeksi täyden matkan kilpailua."_
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/358073a0d2afb9d1f6d6c620d6e6f017f0b8568e.jpg)
 
 Olen sen verran opiskellut itsensä johtamista, lukenut valmentajien oppaita ja kaikenlaista self-helppiä, että ymmärrän kaiken lähtevän tavoitteen asettelusta. Ainoa päivä muuttua on tänään, koska huomenna sitä ei saa aloitettua. Aivan siinä pyörän selässä en kovinkaan tarkasti käynyt ajattelemaan, mutta olen nyt jo toista kuukautta hionut päämäärää kirkkaammaksi vähän kerrallaan.
 
