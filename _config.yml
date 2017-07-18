@@ -1,4 +1,3 @@
-layout_spectrum: 0.2907998585069349
 typography_spectrum: 0.5487758711894218
 color:
   brandColors:
@@ -11,24 +10,29 @@ color:
   lightness: 0.35426535651613356
   saturation: 0.1682027442236938
   rhythmicContrast: 0.46164367722365823
-name: Ironman 2018
-favicon: null
-title: IM18
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-32992476-3
-  facebook: null
-  twitter: null
+github: true
 opengraph:
   image: null
   type: null
   appId: null
-purpose: []
-content: []
-description: Treeniä yhden pienen päätöksen perässä
-github: true
+layout_spectrum: 0.2907998585069349
+analytics:
+  google: UA-32992476-3
+  facebook: null
+  twitter: null
 author:
   name: Ferrix Hovi
+name: Ironman 2018
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Projekti
+    id: 6c2d5e9e-563a-40da-8265-49e1a64c6332
+    type: content
+favicon: null
+title: IM18
+content: []
+description: Treeniä yhden pienen päätöksen perässä
+purpose: []
