@@ -6,8 +6,8 @@ keywords: []
 description: >-
   Puolilta päivin Suomen aikaa alkoi ehkä maailman haastavin sisäpyöräilyturnee.
   Olen mukana toista kertaa, koska se kannattaa.
-datePublished: '2017-07-18T10:05:01.421Z'
-dateModified: '2017-07-18T10:05:00.743Z'
+datePublished: '2017-07-18T10:12:11.219Z'
+dateModified: '2017-07-18T10:12:10.459Z'
 title: Rääkkiviikko
 author:
   - name: ''
@@ -25,10 +25,9 @@ _type: Article
 # Rääkkiviikko
 
 _Puolilta päivin Suomen aikaa alkoi ehkä maailman haastavin sisäpyöräilyturnee. Olen mukana toista kertaa, koska se kannattaa._
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c917236842097722caae42fca6df7cb726329332.png)
 
 ---
-
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c917236842097722caae42fca6df7cb726329332.png)
 
 [Tour of Sufferlandria][0] on yhdeksän rankkaa treenipäivää sisäpyöräilyä. Sain tuolla viikon treenillä paljon ryhtiä viime kaudella. FTP eli kynnysteho nousi viidenneksellä, minkä jälkeen ulkopyöräilykausi alkoi aivan uudella teholla. Tänä vuonna reitti on vaihtunut ja vaikuttaa melkoisen tuskalliselta.
 
