@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inLanguage: null
 keywords: []
 description: >-
   Puolilta päivin Suomen aikaa alkoi ehkä maailman haastavin sisäpyöräilyturnee.
   Olen mukana toista kertaa, koska se kannattaa.
-datePublished: '2017-07-18T08:46:32.816Z'
-dateModified: '2017-07-18T08:46:32.142Z'
+datePublished: '2017-07-18T09:10:43.050Z'
+dateModified: '2017-07-18T09:10:42.200Z'
 title: Rääkkiviikko
 author:
   - name: ''
@@ -19,12 +19,14 @@ via: {}
 starred: false
 datePublishedOriginal: '2016-07-19T14:12:11.318Z'
 url: raakkiviikko/index.html
-_type: Blurb
+_type: Article
 
 ---
 # Rääkkiviikko
 
 _Puolilta päivin Suomen aikaa alkoi ehkä maailman haastavin sisäpyöräilyturnee. Olen mukana toista kertaa, koska se kannattaa._
+
+---
 
 [Tour of Sufferlandria][0] on yhdeksän rankkaa treenipäivää sisäpyöräilyä. Sain tuolla viikon treenillä paljon ryhtiä viime kaudella. FTP eli kynnysteho nousi viidenneksellä, minkä jälkeen ulkopyöräilykausi alkoi aivan uudella teholla. Tänä vuonna reitti on vaihtunut ja vaikuttaa melkoisen tuskalliselta.
 
@@ -37,8 +39,6 @@ Tämän vuoden ensimmäinen vaihe on ISLAGIATT eli It seemed like a good idea at
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c917236842097722caae42fca6df7cb726329332.png)
 
 **Jos haluat osallistua, [klikkaa tästä][1]**.
-
----
 
 Sufferfest on sarja treenivideoita, jotka koostuvat maailman huippukilpailujen kuvamateriaalista, huumorista kieli poskessa ja oikeasti haastavista harjoituksista. Videot sijoittuvat myyttiseen Sufferlandrian valtioon, jossa kipu on kivaa. Huumori ei ole erityisen hyvää, mutta jossain siellä maksimisykealueen tietämillä erittäin tervetullutta.
 
