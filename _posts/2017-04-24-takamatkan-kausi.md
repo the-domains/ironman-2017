@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Luovuin IM17 -tavoitteesta, mutta luovuin ehkä liikaa. Niin ja menihän se
   Amsterdamin maraton ihan vihkoon.
-dateModified: '2017-07-18T10:04:04.698Z'
-datePublished: '2017-07-18T10:04:05.436Z'
+dateModified: '2017-07-18T10:31:12.950Z'
+datePublished: '2017-07-18T10:31:13.690Z'
 title: Takamatkan kausi
 author: []
 publisher: {}
@@ -18,6 +18,7 @@ _type: Article
 
 ---
 # Takamatkan kausi
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b3ac492-23a1-47d5-a04b-a6fc9040d0d6.jpg)
 
 _Luovuin IM17 -tavoitteesta, mutta luovuin ehkä liikaa. Niin ja menihän se Amsterdamin maraton ihan vihkoon._
 
