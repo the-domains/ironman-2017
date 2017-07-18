@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inLanguage: null
 keywords: []
 description: >-
   Monet triathlonistit mittaavat yhtä jos toista suorituksestaan. Kuntoilijat
   saattavat mitata sykettä, mutta mitä oikeastaan voi ja kannattaa mitata?
-datePublished: '2017-07-18T09:00:23.462Z'
-dateModified: '2017-07-18T09:00:22.785Z'
+datePublished: '2017-07-18T10:05:48.193Z'
+dateModified: '2017-07-18T10:05:47.499Z'
 title: Henkimaailman juttuja
 sourcePath: _posts/2015-10-09-henkimaailman-juttuja.md
 author:
@@ -19,13 +19,15 @@ via: {}
 starred: false
 datePublishedOriginal: '2016-07-19T12:25:51.117Z'
 url: henkimaailman-juttuja/index.html
-_type: Blurb
+_type: Article
 
 ---
 # Henkimaailman juttuja
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/872e6956096c28b6e9bbd11246ca4d0ec7c26047.jpg)
 
 _Monet triathlonistit mittaavat yhtä jos toista suorituksestaan. Kuntoilijat saattavat mitata sykettä, mutta mitä oikeastaan voi ja kannattaa mitata?_
+
+---
 
 Olen harrastanut välineurheilua oikeastaan koko liikuntaurani ajan. Välineet pitää mielestäni olla kohdallaan, jos jotain aikoo tehdä, mutta iän myötä hommaan on löytynyt jonkinlainen järki. Insinööriluonteisena tykkään pitää asioista kirjaa ja yrittää katsoa harjoittelusta ja kisoista tulevien numeroiden taakse. Ensimmäinen sykemittarini oli Suunnon T3\. Vyö oli varsin epämukava ja matkaa pystyi mittaamaan summittaisesti jalkaan liitettävällä anturilla tai isolla GPS-kiekolla, joka hirtettiin käsivarteen ja reitistä ei jäänyt karttaan jälkeäkään, vaan vain matka ja vauhti, jotka olivat huonosta vastaanotosta johtuen todellakin vähän sinne päin.
 
