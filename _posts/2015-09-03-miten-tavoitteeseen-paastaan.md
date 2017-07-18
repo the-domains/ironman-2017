@@ -6,10 +6,10 @@ description: >-
   ennätyksestäni. Isot pojat sanovat realistiseksi, mutta kunnianhimoiseksi.
   Siltä minustakin tuntuu.
 title: Miten tavoitteeseen päästään?
-dateModified: '2017-07-18T10:02:11.114Z'
+dateModified: '2017-07-18T10:12:37.259Z'
 tags:
   - ''
-datePublished: '2017-07-18T10:02:11.605Z'
+datePublished: '2017-07-18T10:12:37.929Z'
 sourcePath: _posts/2015-09-03-miten-tavoitteeseen-paastaan.md
 authors: []
 publisher: {}
@@ -28,10 +28,9 @@ _type: Article
 # Miten tavoitteeseen päästään?
 
 _Aion karistaa vuodessa puolitoista tuntia triathlonin puolimatkan ennätyksestäni. Isot pojat sanovat realistiseksi, mutta kunnianhimoiseksi. Siltä minustakin tuntuu._
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb7a37f4216401c096df4656d6da21886662df06.jpg)
 
 ---
-
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb7a37f4216401c096df4656d6da21886662df06.jpg)
 
 Mistä tuo numero tuohon tuli? Miten tavoite asetetaan? Tärkeintä on konkretia ja realistisuus. Pitää tietää, mitä ollaan tekemässä, millä tavotteella, mihin mennessä, millä menetelmällä ja mistä osista suunnitelma koostuu. Tiedän nykyisen aikani, paljonko sitä varten tuli harjoiteltua, mikä tuntui pahalta ja mikä hyvältä.
 
