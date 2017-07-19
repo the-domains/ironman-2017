@@ -1,10 +1,9 @@
 ---
 title: Levy ykkösellä
-datePublished: '2017-07-19T10:36:36.929Z'
-dateModified: '2017-07-19T10:36:36.189Z'
+datePublished: '2017-07-19T10:37:52.947Z'
+dateModified: '2017-07-19T10:37:52.255Z'
 publisher: {}
-author:
-  - name: Bullseye
+author: []
 inFeed: true
 hasPage: true
 description: Kävin Vierumäellä toteamassa treenaamattomuuden tuhot
@@ -17,7 +16,7 @@ _type: Article
 
 ---
 # Levy ykkösellä
-![Kun kisa ei kulje, kilpailun vanhimmat osallistujat pääsevät ohi.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aeb7aaaa-ebd3-4de2-bad3-05679acc3a5f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aeb7aaaa-ebd3-4de2-bad3-05679acc3a5f.jpg)
 
 _Kävin Vierumäellä toteamassa treenaamattomuuden tuhot_
 
