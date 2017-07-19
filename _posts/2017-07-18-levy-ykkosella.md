@@ -1,27 +1,29 @@
 ---
 title: Levy ykkösellä
-datePublished: '2017-07-18T18:05:26.901Z'
-dateModified: '2017-07-18T18:05:25.422Z'
+datePublished: '2017-07-19T10:23:30.212Z'
+dateModified: '2017-07-19T10:23:29.599Z'
 publisher: {}
 author: []
 inFeed: true
 hasPage: true
 description: Kävin Vierumäellä toteamassa treenaamattomuuden tuhot
 via: {}
+sourcePath: _posts/2017-07-18-levy-ykkosella.md
 starred: false
 datePublishedOriginal: '2017-07-18T17:41:49.596Z'
-sourcePath: _posts/2017-07-18-levy-ykkosella.md
 url: levy-ykkosella/index.html
 _type: Article
 
 ---
 # Levy ykkösellä
+![Kun kisa ei kulje, kilpailun vanhimmat osallistujat pääsevät ohi.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aeb7aaaa-ebd3-4de2-bad3-05679acc3a5f.jpg)
 
 _Kävin Vierumäellä toteamassa treenaamattomuuden tuhot_
 
 ---
 
-Lähdin Vierumäelle mökillä vietetyn viikon jälkeen. Treeniä ehti tulla sillä viikolle pohjalle ihan hyvin, kunhan sain juhannuksen jälkeen maantiepyörään uudet ulkokumit ja keskiviikkona poljin Inkoosta mökille Hankoon testatakseni pyörää. Muutenhan kausi on ollut sinne päin. ![Inkoon ja Hangon välistä löytyi jäätelöä](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ed7e72a-c7db-4820-b2b3-86ac23c38b92.jpg)
+Lähdin Vierumäelle mökillä vietetyn viikon jälkeen. Treeniä ehti tulla sillä viikolle pohjalle ihan hyvin, kunhan sain juhannuksen jälkeen maantiepyörään uudet ulkokumit ja keskiviikkona poljin Inkoosta mökille Hankoon testatakseni pyörää. Muutenhan kausi on ollut sinne päin.
+![Inkoon ja Hangon välistä löytyi jäätelöä](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ed7e72a-c7db-4820-b2b3-86ac23c38b92.jpg)
 
 Cervélo sai Vantaalla siipeensä ja jouduin tilaamaan uuden etuvaihtajan. Koko vaihtajan poistaminen olisi voinut olla jossain muussa kisassa vaihtoehto, mutta Vierumäki on reittinä mäkisimmästä päästä. Rahat tiskiin ja vaihtaja vaihtoon.
 
