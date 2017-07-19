@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: Joroinen oli monella tapaa ainutlaatuinen tällä kertaa
-dateModified: '2017-07-19T12:48:31.701Z'
-datePublished: '2017-07-19T12:48:49.542Z'
+dateModified: '2017-07-19T13:04:21.399Z'
+datePublished: '2017-07-19T13:04:22.143Z'
 title: Huollon tarpeessa
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-07-19-huollon-tarpeessa.md
 starred: false
 datePublishedOriginal: '2017-07-19T12:48:49.542Z'
-sourcePath: _posts/2017-07-19-huollon-tarpeessa.md
 url: huollon-tarpeessa/index.html
 _type: Article
 
@@ -82,9 +82,9 @@ Rantasalmi tuli nopeasti ja olinkin unohtanut, että siinähän tulee ihan kunno
 
 Vastatuuliosuudella alkoi olla jonoja ja olin entistä vastahakoisempi ohittamaan isoja letkoja. Jossain vaiheessa ohi meni letka, joka tuntui pitkän matkaa etenevän kahdessa jonossa, kun ilmeisesti kahden ajoryhmän välistä nokkimisjärjestystä ajettiin. Mahdoton sanoa, että oliko peesillä osuutta asiaan, mutta itse pidin hännimmäiseen etäisyyttä. Jossain vaiheessa kuitenkin rohkaistuin pitkässä alamäessä menemään ohi. Geelipullosta juominen oli onneksi vaikeaa vain ensimmäisellä kerralla. Tuntuu uuden pyörän juomatelineen paikka olevan huonosti lihasmuistissa, mutta vettä ja geeliä otin aina, kun muistin.
 
-Viimeiseltä juomahuollolta jälleen tyhjään torpedoon vettä ja loput päälle ja suuhun. Vastatuulesta johtuen matka Rantasalmelta takaisin tuntui ylivoimaisen pitkältä. Nopeus kuitenkin sahasi siinä jossain siinä kolmenkympin molemmin puolin ja toisinaan sai vielä mittariin yli 40, muttei ollut helppoa. Vihdoin viimein se risteys sieltä tuli ja ne viimeiset kumpareethan ovatkin melkoisia. Meinasin säästää jalkoja juoksuun, joten ensimmäisessä käytiin pienemmällä eturattaalla. Päätin kuitenkin, että toiseen suuntaan mäistä otetaan kaikki irti. Alamäki tulikin tarpeeseen juuri ennen viimeistä käännöstä ja takaisin. Valvatuksen kohdalla tunnustelin jalkojani ja tuntui siltä, että puutunutta menoa ja hermopinnettä on. Alkoi epäilyttää koko juoksu. Teboilin kohdalla pyörältä pois ja paljaat varpaat kohtasivat asfaltin.
+Viimeiseltä juomahuollolta jälleen tyhjään torpedoon vettä ja loput päälle ja suuhun. Vastatuulesta johtuen matka Rantasalmelta takaisin tuntui ylivoimaisen pitkältä. Nopeus kuitenkin sahasi siinä jossain siinä kolmenkympin molemmin puolin ja toisinaan sai vielä mittariin yli 40, muttei ollut helppoa. Kolmen porukka otettiin levikkelle kärsimään rangaistusta ja vähän ajan päästä yksittäinen kisaaja komennettiin sivuun mopon selästä. Vihdoin viimein se risteys sieltä tuli ja ne viimeiset kumpareethan ovatkin melkoisia. Meinasin säästää jalkoja juoksuun, joten ensimmäisessä käytiin pienemmällä eturattaalla. Päätin kuitenkin, että toiseen suuntaan mäistä otetaan kaikki irti. Alamäki tulikin tarpeeseen juuri ennen viimeistä käännöstä ja takaisin. Valvatuksen kohdalla tunnustelin jalkojani ja tuntui siltä, että puutunutta menoa ja hermopinnettä on. Alkoi epäilyttää koko juoksu. Teboilin kohdalla pyörältä pois ja paljaat varpaat kohtasivat asfaltin.
 
-Aika: 2:57:54 (2016 2:57:09 = +0:45) 
+Aika: 2:57:54 (2016 2:57:09 = +0:45)
 
 ## T2
 
@@ -97,3 +97,5 @@ Yhteensä: DNF 3:55:49
 ## Lopuksi
 
 Laskin, että olisin ehtinyt ihan hyvin kävellä maaliin alle aikaleikkurin. Olisin varmaan päässyt alle seitsemänkin. Tämä on ensimmäinen kerta, kun lopetan triathlonin ja vieläpä A-kisan kesken. Tämä on uusi kokemus. Seuraavana päivänä Altroilla vähän köpöttäessä hiipi epäilys, että olisko pitänyt sitten lähteä, mutta lopulta olen sitä mieltä, ettei ole mitään järkeä. Suunnitelma B on nyt tehdä Turussa ehjä suoritus ja oikeasti kiikarit katsovat jo Barcelonaan 2018\. Minulla oli hauskaa uidessa ja pyöräillessä. Juoksu olisi ollut yhtä helvettiä ja tunnen sen hermopinteen jo liian hyvin tähän mennessä. Nyt pitää katsoa, miten pyöräilykenkien kanssa tehdään.
+
+Tutuilla tuli kovia parannuksia aikoihin ja pääsin ensimmäistä kertaa katsomaan tätä kisaa yleisön näkökulmasta.
