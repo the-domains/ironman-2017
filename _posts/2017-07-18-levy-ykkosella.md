@@ -1,7 +1,7 @@
 ---
 title: Levy ykkösellä
-datePublished: '2017-07-19T10:23:30.212Z'
-dateModified: '2017-07-19T10:23:29.599Z'
+datePublished: '2017-07-19T10:35:18.201Z'
+dateModified: '2017-07-19T10:35:17.331Z'
 publisher: {}
 author: []
 inFeed: true
@@ -41,9 +41,13 @@ Ehdin viis minuuttia uida perhosta ennen kuin käskettiin ylös vedestä. Tämä
 
 Paikan valinta oli oikein hyvä! Alkumatkasta oli vähän trafiikkia ohi, mutta myös joku aina vierellä tai edessä. Kannaksen yli veden lämpö muuttui ekaa kertaa mukavaksi tänä vuonna ja ensimmäiset peesit juoksi ohi, kun hain tasapainoa kiivetessä. Ensimmäiselle kääntöpoijulle sai uida ensimmäisen puolen yksin, kun ainut tarjolla oleva seura lähti minun makuuni enemmän rantaa kuin poiju kohden. Homma parveutui jälleen poijua lähestyessä. Takasuoralla muhun iski flow ja kauhoin aika monesta ohi. Suuntima heitti nyt ihan omasta aloitteesta oikealle, mutta samaan suuntaan menijöitä löytyi ja loppumatka taittui kahden toisen uimarin välissä kannakselle asti. Ylös pääsi paremmin, mutta Valkjärven kylmyys vähän yllätti. Virkistävä ja lihaksia jäykistävä kokemus. Joku minuun meni ja himmasin turhaa vauhtia. Lopulta kuitenkin sellainen aika, kun tänä vuonna sopi odottaa.
 
+Aika: 0:34:05 (2016 0:31:19 = +3:46)
+
 ## T1
 
 Vierumäellä on mäkiä. Vedin suosiolla kävelylle ja vasta yläosassa otin kevyttä hölkkää. Ihan sujuva, mutta hidas suoritus.
+
+Aika: 0:06:06 (2016 0:05:17 = +0:49)
 
 ## Pyörä
 
@@ -57,9 +61,13 @@ Kumpuileva maasto menee muistini mukaan aina edellisen mäen vauhdilla ja eipä 
 
 Viimeisellä kierroksella huomaan, että voimia on käytetty huolella ja otan paluusuunnan vähän jalkoja säästäen.
 
+Aika: 1:23:18 (2016 1:15:28 = +7:50)
+
 ## T2
 
 Laskeudun pyörältä ja hölkötän sen paikalleen. Bentoboxista geeli matkaan ja pussille. Tällä kertaa hanskat sinne heti. Kenkä ei mee jalkaan. Pohjallinen seilaa. Jalassa. Juoksuun. Korjaus.
+
+Aika: 0:03:11 (2016 0:01:42 = +1:31)
 
 ## Juoksu
 
@@ -69,7 +77,11 @@ Pilvet ovat väistyneet ja joka huoltopisteellä otan vettä. Sportyfeeliä mais
 
 Toisella kierroksella hölköttelyn ja kävelyn kiertokulku jatkuu. Vettä lissää. Kuuma tulee ja kroppa lämpenee. Kuikuilen välillä taakse, jos reitillä olis joku muu. Pari menee ohi. Takaa ilmestyy golfkärry, jossa on keulalla punainen risti. Ensihoitajat kysyvät vointia. Golf-ambulanssi kirvoitti hyvän hymyn naamalle. Kertovat, että en ole ihan viimeinen. Kuulemma ainakin yks on ja toinen aika kaukana. Otan lyhyen peesin kärrystä, mutta pian sekin on horisontissa. Pian se ainakin yks takana on ohi. Menee ihan hyvää vauhtia. Viimeisellä huoltopisteellä totean toimitsijoille, että oispa kaljaa ja he toteavat, että maalissa on. Askel kevenee ja on siellä tankissa löpöä. Viimeinen kilometri menee juosten ja saan hienon loppukirin.
 
+Aika: 1:27:26 (2016 1:11:36 = +16:50)
+
 ## Summa summarum
+
+Aika: 3:34:08 (2016 03:05:24 = +29:44) ![Löpöä jäi tankkiin, kun juoksu ei kulkenut.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4320c736-6eb2-4224-a18f-dc1a40647178.jpg)
 
 Talven heikosta treenistä johtuen kaikki on hidastettua. Kalusto on päivitetty niin hyvin, että mulla on kisan hitain levykiekko. Eli jatkossa homma on tehtävä treenillä. Juoksussa askel on samalla tavalla lennokas kuin viime vuonna, mutta ilma on korvattu sulatejuustolla. Damagea on tullut.
 
