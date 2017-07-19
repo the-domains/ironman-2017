@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Joroinen oli monella tapaa ainutlaatuinen tällä kertaa
-dateModified: '2017-07-19T13:04:21.399Z'
-datePublished: '2017-07-19T13:04:22.143Z'
+dateModified: '2017-07-19T13:08:50.512Z'
+datePublished: '2017-07-19T13:08:51.266Z'
 title: Huollon tarpeessa
 author: []
 publisher: {}
@@ -98,4 +98,4 @@ Yhteensä: DNF 3:55:49
 
 Laskin, että olisin ehtinyt ihan hyvin kävellä maaliin alle aikaleikkurin. Olisin varmaan päässyt alle seitsemänkin. Tämä on ensimmäinen kerta, kun lopetan triathlonin ja vieläpä A-kisan kesken. Tämä on uusi kokemus. Seuraavana päivänä Altroilla vähän köpöttäessä hiipi epäilys, että olisko pitänyt sitten lähteä, mutta lopulta olen sitä mieltä, ettei ole mitään järkeä. Suunnitelma B on nyt tehdä Turussa ehjä suoritus ja oikeasti kiikarit katsovat jo Barcelonaan 2018\. Minulla oli hauskaa uidessa ja pyöräillessä. Juoksu olisi ollut yhtä helvettiä ja tunnen sen hermopinteen jo liian hyvin tähän mennessä. Nyt pitää katsoa, miten pyöräilykenkien kanssa tehdään.
 
-Tutuilla tuli kovia parannuksia aikoihin ja pääsin ensimmäistä kertaa katsomaan tätä kisaa yleisön näkökulmasta.
+Tutuilla tuli kovia parannuksia aikoihin ja pääsin ensimmäistä kertaa katsomaan tätä kisaa yleisön näkökulmasta. Maaliin olin varannut oluen, mutta nyt menin omahuoltoon juomaan sen lämpimänä ja itseäni säälien. Kyllä se hyvää teki silti. Iloisin mielin eteenpäin, koska vaihtoehto on huonompi.
