@@ -1,16 +1,16 @@
 ---
-inFeed: true
-description: Joroinen oli monella tapaa ainutlaatuinen tällä kertaa
-dateModified: '2017-07-19T13:08:50.512Z'
-datePublished: '2017-07-19T13:08:51.266Z'
 title: Huollon tarpeessa
-author: []
+datePublished: '2017-07-19T15:13:37.352Z'
+dateModified: '2017-07-19T15:13:35.949Z'
 publisher: {}
-via: {}
+author: []
+inFeed: true
 hasPage: true
-sourcePath: _posts/2017-07-19-huollon-tarpeessa.md
+description: Joroinen oli monella tapaa ainutlaatuinen tällä kertaa
+via: {}
 starred: false
 datePublishedOriginal: '2017-07-19T12:48:49.542Z'
+sourcePath: _posts/2017-07-19-huollon-tarpeessa.md
 url: huollon-tarpeessa/index.html
 _type: Article
 
@@ -96,6 +96,6 @@ Yhteensä: DNF 3:55:49
 
 ## Lopuksi
 
-Laskin, että olisin ehtinyt ihan hyvin kävellä maaliin alle aikaleikkurin. Olisin varmaan päässyt alle seitsemänkin. Tämä on ensimmäinen kerta, kun lopetan triathlonin ja vieläpä A-kisan kesken. Tämä on uusi kokemus. Seuraavana päivänä Altroilla vähän köpöttäessä hiipi epäilys, että olisko pitänyt sitten lähteä, mutta lopulta olen sitä mieltä, ettei ole mitään järkeä. Suunnitelma B on nyt tehdä Turussa ehjä suoritus ja oikeasti kiikarit katsovat jo Barcelonaan 2018\. Minulla oli hauskaa uidessa ja pyöräillessä. Juoksu olisi ollut yhtä helvettiä ja tunnen sen hermopinteen jo liian hyvin tähän mennessä. Nyt pitää katsoa, miten pyöräilykenkien kanssa tehdään.
+Laskin, että olisin ehtinyt ihan hyvin kävellä maaliin alle aikaleikkurin. Olisin varmaan päässyt alle seitsemänkin. Tämä on ensimmäinen kerta, kun lopetan triathlonin ja vieläpä A-kisan vapaaehtoisesti kesken. Tämä on uusi kokemus. Seuraavana päivänä Altroilla vähän köpöttäessä hiipi epäilys, että olisko pitänyt sitten lähteä, mutta lopulta olen sitä mieltä, ettei ole mitään järkeä. Suunnitelma B on nyt tehdä Turussa ehjä suoritus ja oikeasti kiikarit katsovat jo Barcelonaan 2018\. Minulla oli hauskaa uidessa ja pyöräillessä. Juoksu olisi ollut yhtä helvettiä ja tunnen sen hermopinteen jo liian hyvin tähän mennessä. Nyt pitää katsoa, miten pyöräilykenkien kanssa tehdään.
 
 Tutuilla tuli kovia parannuksia aikoihin ja pääsin ensimmäistä kertaa katsomaan tätä kisaa yleisön näkökulmasta. Maaliin olin varannut oluen, mutta nyt menin omahuoltoon juomaan sen lämpimänä ja itseäni säälien. Kyllä se hyvää teki silti. Iloisin mielin eteenpäin, koska vaihtoehto on huonompi.
