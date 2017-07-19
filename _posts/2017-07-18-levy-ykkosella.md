@@ -1,9 +1,10 @@
 ---
 title: Levy ykkösellä
-datePublished: '2017-07-19T10:35:18.201Z'
-dateModified: '2017-07-19T10:35:17.331Z'
+datePublished: '2017-07-19T10:36:20.840Z'
+dateModified: '2017-07-19T10:36:20.063Z'
 publisher: {}
-author: []
+author:
+  - name: Bullseye
 inFeed: true
 hasPage: true
 description: Kävin Vierumäellä toteamassa treenaamattomuuden tuhot
