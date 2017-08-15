@@ -5,8 +5,8 @@ description: >-
   Silti siitä jäi pettymyksen apina selkään. Tiesin pääseväni maaliin Turussa,
   mutta oli liikuttava kokemus todistaa se. Lisäksi Turku on muuten Suomen paras
   kisa.
-dateModified: '2017-08-15T15:15:26.376Z'
-datePublished: '2017-08-15T15:15:28.077Z'
+dateModified: '2017-08-15T19:36:20.164Z'
+datePublished: '2017-08-15T19:36:21.195Z'
 title: Läheltä pohjaa Aurajoella
 author: []
 publisher: {}
@@ -76,7 +76,7 @@ _4:07 (3:47)_
 
 Nyt mä sitten muistin, että ne tarrat jäi kiinni. Revin niitä auki hetken ennen kuin oikeasti pääsin satulaan. Siihen meni 41 sekuntia. Tämä pitää muistaa, jos aikoo lentävää lähtöä tehdä. Yritin ylettää vasempaan remmiin satulasta, mutta jotenkin se ei kädellä löytynyt. Antaa olla hetken. Kaupunkialueen jälkeen vaikka sitten. Radan ylitykset oli matotettu hyvin ja liikenteenohjaajia oli hyvin. Lähdin liikkeelle tunnustelevalla fiiliksellä, jotta saisi jalat lämpimäksi eikä ainakaan heti lähtisi jalat alta. Aina, kun katoin lukemia, pyrin pysymään siellä 200 watin tuntumassa.
 
-Moottoritielle päästyäni vaihdoin taktiikkaa ja aloin hakea 220 watin tehoja. Totesin, että siinä kiirehtiessäni kenkien remmien kanssa vasen tarra oli irronnut kokonaan ja totesin, että hoidan asian vasta, jos tulee pakko pysähtyä muuten. Ensimmäiseen mäkeen se tuntui kovin vähäiseltä, mutta hillitsin mieleni. Ensimmäisen kierroksen aikana pro-sarjaa tuli ohi ja Panu siinä muiden mukana. Vaikutti olevan ihan hyvällä sijoituksella. Ensimmäinen kierros vaikutti kulkevan nopeasti ja pääsin vaivatta tavoitewateilla 38-45 km/h. Aloin vähän uumoilla tuulen voimakkuutta. Pari kilometriä ennen ensimmäistä käännöstä kuulin takaa tulevan ambulanssin ja varmuuden vuoksi siirryin vähän vasemmalle. Kääntöpaikalle ehtiessäni ambulanssin väki auttoi toista kilpailijaa.
+Moottoritielle päästyäni vaihdoin taktiikkaa ja aloin hakea 220 watin tehoja. Totesin, että siinä kiirehtiessäni kenkien remmien kanssa vasen tarra oli irronnut kokonaan ja totesin, että hoidan asian vasta, jos tulee pakko pysähtyä muuten. Ensimmäiseen mäkeen se tuntui kovin vähäiseltä, mutta hillitsin mieleni. Ensimmäisen kierroksen aikana pro-sarjaa tuli ohi ja Panu siinä muiden mukana. Vaikutti olevan ihan hyvällä sijoituksella. Ensimmäinen kierros vaikutti kulkevan nopeasti ja pääsin vaivatta tavoitewateilla 38-45 km/h. Aloin vähän uumoilla tuulen voimakkuutta. Pari kilometriä ennen ensimmäistä käännöstä kuulin takaa tulevan ambulanssin ja varmuuden vuoksi siirryin vähän vasemmalle. Kääntöpaikalle ehtiessäni ambulanssin väki auttoi toista kilpailijaa. (Myöhemmin sain kisaorganisaatiosta tiedon, että hengenhätää ei onneksi ollut.)
 
 Heti käännöksen jälkeen oli aivan selvää, että länsituuli on antanut lisäpotkua. Liisteri iski kasvoille. Vesitäydennystä en ottanut, koska torpedo oli vielä puolillaan. Kellon mukaan alkoi olla aika ottaa geeliä ja jotenkin köpön oloisesti sain pullon kaivettua esiin ja horjahtamatta ja liikenteenohjaustörppöihin törmäämättä sain puolen tunnin kohdalla energiaa. Vauhdista lähti kärki pois. Tavoitewateilla ei tuntunut enää menevän kolmeakymppiä. Tässä vaiheessa ohitettavia maantiepyöriä alkoi olla reilusti. Kovia kuskeja meni ohi jonkin verran, joten välistä piti hieman himmata tehoja ennen ohitusta. Jälkikäteen ajateltuna taisi herpaantua silmä tavoitewateista.
 
