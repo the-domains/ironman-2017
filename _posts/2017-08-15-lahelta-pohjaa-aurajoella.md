@@ -5,8 +5,8 @@ description: >-
   Silti siitä jäi pettymyksen apina selkään. Tiesin pääseväni maaliin Turussa,
   mutta oli liikuttava kokemus todistaa se. Lisäksi Turku on muuten Suomen paras
   kisa.
-dateModified: '2017-08-15T12:32:30.341Z'
-datePublished: '2017-08-15T12:32:31.516Z'
+dateModified: '2017-08-15T12:32:58.934Z'
+datePublished: '2017-08-15T12:33:00.026Z'
 title: Läheltä pohjaa Aurajoella
 author: []
 publisher: {}
@@ -29,7 +29,7 @@ _Joroisten keskeytys oli puujaloin vaihtoon kävelyn jälkeen järkevä päätö
 
 Viikko Joroisen palauttelun jälkeen oli kädessä uusi treeniohjelma. Maanantaista torstaihin treenit, perjantai lepoa ja lauantaina viikon pitkä. Aika helppoa, mutta ai että kun olisin tuollaisen itse tajunnut tehdä ja vielä jaksanut koko talvikauden seurata. Treenien lisäksi käytiin kolme puhelinpalaveria Panu Liedon kanssa ja se on oikeastaan tämän ohjelman tärkeintä antia: palautetta, tsemppiä ja välillä tyhmälle selittämistä, että mikä on jonkun treenin tavoite. Lisäksi omat fiilikset siitä, mikä on tärkeää ja mikä ei saivat vahvistusta. Työmatkalla yhden 40 sekunnin segmentin jahtaaminen ei ole pahaksi, jos sillä jaksaa tunkata kepeästi perille.
 
-Peruskestävyysalueen treenin vähäisyys alkoi olla hyvin selvää, kun alle 130 ja 140 bpm juoksu ja pyöräily ei yksinkertaisesti saanut maisemaa vaihtumaan. Fiilispohjalta meni koko ajan kynnyksen yli ja sehän ei ole hyvä. Onneksi olen ollut täällä aiemmin ja parin viikon yrittämisen jälkeen pyörästä löytyi PK-eturatas ja juoksussakin kävelyn määrä alkoi laskea. Kolmeen viikkoon jäi yksi palauttava treeni välistä aikataulujen vuoksi.
+Peruskestävyysalueen treenin vähäisyys omassa tekemisessä alkoi olla hyvin selvää, kun alle 130 ja 140 bpm juoksu ja pyöräily ei yksinkertaisesti saanut maisemaa vaihtumaan. Fiilispohjalta meni koko ajan kynnyksen yli ja sehän ei ole hyvä. Onneksi olen ollut täällä aiemmin ja parin viikon yrittämisen jälkeen pyörästä löytyi PK-eturatas ja juoksussakin kävelyn määrä alkoi laskea. Kolmeen viikkoon jäi yksi palauttava treeni välistä aikataulujen vuoksi.
 
 Aikatavoitteet asetin tämän kauden tason mukaan ja vähän yli. Uinti 40 min, pyörä 2:50 ja juoksu 2:50\. Eniten arvelutti juoksu, kun se ei ole kulkenut ja vuoden paras ja ainoa puolimaraton meni krampissa yli kolmen tunnin.
 
