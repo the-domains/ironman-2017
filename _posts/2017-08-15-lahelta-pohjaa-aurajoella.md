@@ -5,8 +5,8 @@ description: >-
   Silti siitä jäi pettymyksen apina selkään. Tiesin pääseväni maaliin Turussa,
   mutta oli liikuttava kokemus todistaa se. Lisäksi Turku on muuten Suomen paras
   kisa.
-dateModified: '2017-08-15T13:13:33.142Z'
-datePublished: '2017-08-15T13:13:34.079Z'
+dateModified: '2017-08-15T13:35:34.997Z'
+datePublished: '2017-08-15T13:35:35.972Z'
 title: Läheltä pohjaa Aurajoella
 author: []
 publisher: {}
@@ -52,7 +52,7 @@ Heräsin siinä kaksikymmentä yli viisi koiranhaukun aikaan. Ei ollut ensimmäi
 
 Hotellin aamiaiselta kevyttä aamiaista. Vähän graavia oli pakko ottaa, kun näytti hyvältä. Munakokkeli näytti oivalliselta ja olikin. Kahvivalikoimaan kuului erikseen Parisien, kun osasi puolitangossa olevalla silmällä katsoa. Karjalanpiirakoita kaksi, poksumuroja marjoilla ja hetelmillä. Riskillä otin vielä herkullisen näköisiä herkkusieniä, koska trehaloosi-intoleranssini on toistaiseksi vain epäilyksen asteella. Hotellihuoneen pakkaaminen luovutuskuntoon ja autolle siirtyminen tuntui vievän ikuisuuden ja aivotoimintani ei aamiaisesta huolimatta lähtenyt käyntiin.
 
-Forum Marinumille päästyäni laitoin suhteellisen nopeasti pyörän telineeseen, kengät pyörään ja vaihtopussit paikalleen. Vaihdoin siinä vielä Panun kanssa muutaman sanan ja sanoin vielä ääneen, että pitää käydä avaamassa kengistä tarrat. Kaksi tarvetta vielä jäi jäljelle: torpedoon vettä ja kilpailijasta vettä ulos. Näiden jälkeen alkoi tulla kiireen tunnetta saada märkäpuku päälle, kastautua, viedä valkoinen siviilivaatepussi ja päästä stressistä yli. Suomenjoutsenen vieressä nurmella kiskoin pukua päälle ja tuntui kinnaavan lahkeista ihan kunnolla. Leena oli siinä omaansa nykimässä ja siinä höpötellessä alkoi mieli virkistyä. Tulihan Jannekin siihen laittamaan märkkäriä päälle ja delegoin siviilipussin viemisen hänelle. Hyvä, kun on lajia harrastavia kollegoita. Tällä säällä päätin, että kompressiosäärystimet ja kisapuku saavat riittää.
+Forum Marinumille päästyäni laitoin suhteellisen nopeasti pyörän telineeseen, kengät pyörään ja vaihtopussit paikalleen. Vaihdoin siinä vielä Panun kanssa muutaman sanan ja sanoin vielä ääneen, että pitää käydä avaamassa kengistä tarrat. Kaksi tarvetta vielä jäi jäljelle: torpedoon vettä ja kilpailijasta vettä ulos. Näiden jälkeen alkoi tulla kiireen tunnetta saada märkäpuku päälle, kastautua, viedä valkoinen siviilivaatepussi ja päästä stressistä yli. Suomenjoutsenen vieressä nurmella kiskoin pukua päälle ja tuntui kinnaavan lahkeista ihan kunnolla. Leena oli siinä omaansa nykimässä ja siinä höpötellessä alkoi mieli virkistyä. Tulihan Jannekin siihen laittamaan märkkäriä päälle ja delegoin siviilipussin viemisen Samille. Hyvä, kun on seurassa rentoja tyyppejä. Tällä säällä päätin, että kompressiosäärystimet ja kisapuku saavat riittää.
 
 Siirryin kohti verryttelyaluetta ja märkäpuvun yläosakin tuntui menevän poikkeuksellisella kitkalla päälle. Salakan Antti jeesasi vetskarin kiinni ja rullailin itse vielä hihoja paikalleen koko matkan alas ramppia jokeen. Siinä vaiheessa kerrottiin, että viisi minuutti aikaa. Ensimmäistä kertaa tänä kesänä tuli märkäpuvussa kuuma ennen kuin pääsi veteen ja vesikin oli oikein uimalämpöistä. Puolet lämmittelyajasta meni puvun päälle asetteluun. Parit perhoset ja ylös juuri, kun kerrottiin, että vedestä ylös. Hain lähtökarsinasta 40 minuutin kyltin läheltä paikkaa hyvien peesien toivossa. Odottelu tuntui lyhyeltä, kun tuli jauhettua kaikenlaista Petterin kanssa ja ilmestyi siihen Veerakin jossain vaiheessa.
 
