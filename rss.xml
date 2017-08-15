@@ -4,9 +4,16 @@
         <description><![CDATA[IM18]]></description>
         <link>http://ferrix.kisakalenteri.fi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 19 Jul 2017 15:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Aug 2017 12:21:28 GMT</lastBuildDate>
         <atom:link href="http://ferrix.kisakalenteri.fi/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Jul 2017 15:13:38 GMT</pubDate>
+        <pubDate>Tue, 15 Aug 2017 12:21:23 GMT</pubDate>
+        <item>
+            <title><![CDATA[Läheltä pohjaa Aurajoella]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec29dcb5-005e-4013-ace6-200e6c902b32.jpg">,<h1>Läheltä pohjaa Aurajoella</h1>,<p><em>Joroisten keskeytys oli puujaloin vaihtoon kävelyn jälkeen järkevä päätös. Silti siitä jäi pettymyksen apina selkään. Tiesin pääseväni maaliin Turussa, mutta oli liikuttava kokemus todistaa se. Lisäksi Turku on muuten Suomen paras kisa.</em></p>]]></description>
+            <link>http://ferrix.kisakalenteri.fi/lahelta-pohjaa-aurajoella/index.html</link>
+            <guid isPermaLink="false">7ef8af60-e899-48fd-adcf-cf2f9a3cffa3</guid>
+            <pubDate>Tue, 15 Aug 2017 12:20:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Huollon tarpeessa]]></title>
             <description><![CDATA[<h1>Huollon tarpeessa</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/680f5dc7-2ca0-4694-ac1a-f9fe1b92db0c.jpg">,<p><em>Joroinen oli monella tapaa ainutlaatuinen tällä kertaa</em></p>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<h1>Miten tavoitteeseen päästään?</h1>,<p><em>Aion karistaa vuodessa puolitoista tuntia triathlonin puolimatkan ennätyksestäni. Isot pojat sanovat realistiseksi, mutta kunnianhimoiseksi. Siltä minustakin tuntuu.</em></p>,<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb7a37f4216401c096df4656d6da21886662df06.jpg" title="Suunnitelma">]]></description>
             <link>http://ferrix.kisakalenteri.fi/miten-tavoitteeseen-paastaan/index.html</link>
             <guid isPermaLink="false">06b2f835-d430-48c2-bd9d-acea87b8cb12</guid>
-            <pubDate>Fri, 09 Oct 2015 10:06:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fillari alle]]></title>
-            <description><![CDATA[<h1>Fillari alle</h1>,<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d328ca78b065a7692c7b5ec6c5a9884134950100.png">,<p><em>Triathlonin ehdottomasti tärkein väline on polkupyörä. Maaliin pääsee ilman märkäpukuakin, mutta joku pyörä on pakko olla. Millainen on hyvä?</em></p>]]></description>
-            <link>http://ferrix.kisakalenteri.fi/fillari-alle/index.html</link>
-            <guid isPermaLink="false">952a71f0-fbcc-42d5-a6a8-a0ee7a8706b6</guid>
             <pubDate>Fri, 09 Oct 2015 10:06:53 GMT</pubDate>
         </item>
     </channel>
