@@ -5,8 +5,8 @@ description: >-
   Silti siitä jäi pettymyksen apina selkään. Tiesin pääseväni maaliin Turussa,
   mutta oli liikuttava kokemus todistaa se. Lisäksi Turku on muuten Suomen paras
   kisa.
-dateModified: '2017-08-15T12:32:58.934Z'
-datePublished: '2017-08-15T12:33:00.026Z'
+dateModified: '2017-08-15T12:35:54.211Z'
+datePublished: '2017-08-15T12:35:55.147Z'
 title: Läheltä pohjaa Aurajoella
 author: []
 publisher: {}
@@ -44,7 +44,7 @@ Turussa olimme niin aikaisin, että hotellihuone ei ollut aivan vielä valmiina.
 
 Ohjeistus oli tullut luettua niin huonosti, että kisakeskusksen ruokailumahdollisuudet useammasta street food -kärrystä tulivat positiivisena yllätyksenä. Yks semmonen ja tapaamaan valmennustiimiä. Kerroin siinä Turun ensikertalaisille sen, mitä muistin reitistä ja sen jälkeen vaihtoalueen jälkeen infoon. Viime vuonna itsellenikin turmiolliset kiskot oli kuulemma matotettu ja TYKS:n työmaalla oli saatu Helsingistä saapuva kaista kokonaan kilpailun käyttöön. Tämä ja moottoritien järjestelyt tekevät aivan selväksi sen, että Turku on tässä tosissaan mukana. Helsinki saisi ottaa mallia!
 
-Infon jälkeen taivaalta alkoi tulla vanhoja ämmiä ja päätin sittenkin pyöräillä takaisin hotellille. Kyllä se pyörä kontissa kulkee aamullakin. Hotellilta tuli melkein jo kiire Foijaan syömään kolmen ruokalajin kynttiläillallinen. Täydellä mahalla ja vähän matalilla energioilla piti vielä liimailla kisanumerot ja vaihtopussien sisältöä. Lihaksissa oli kaikenlaisia jumituksia ja hain apua lämpimästä kylvystä. Vällyjen väliin ehti niin, että kellon soiton sai seitsemän tunnin päähän kuudeksi.
+Infon jälkeen taivaalta alkoi tulla vanhoja ämmiä ja päätin sittenkin pyöräillä takaisin hotellille. Kyllä se pyörä kontissa kulkee aamullakin. Hotellilta tuli melkein jo kiire Foijaan syömään kolmen ruokalajin kynttiläillallinen. Täydellä mahalla ja vähän matalilla energioilla piti vielä liimailla kisanumerot ja keksiä vaihtopussien sisältöä. Lihaksissa oli kaikenlaisia jumituksia ja hain apua lämpimästä kylvystä. Vällyjen väliin ehti niin, että kellon soiton sai seitsemän tunnin päähän kuudeksi.
 
 ## Kisa-aamu
 
