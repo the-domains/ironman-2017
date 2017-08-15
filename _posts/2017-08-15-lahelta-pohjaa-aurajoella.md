@@ -5,8 +5,8 @@ description: >-
   Silti siitä jäi pettymyksen apina selkään. Tiesin pääseväni maaliin Turussa,
   mutta oli liikuttava kokemus todistaa se. Lisäksi Turku on muuten Suomen paras
   kisa.
-dateModified: '2017-08-15T12:51:22.824Z'
-datePublished: '2017-08-15T12:51:23.817Z'
+dateModified: '2017-08-15T12:51:30.495Z'
+datePublished: '2017-08-15T12:51:32.034Z'
 title: Läheltä pohjaa Aurajoella
 author: []
 publisher: {}
