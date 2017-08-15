@@ -5,8 +5,8 @@ description: >-
   Silti siitä jäi pettymyksen apina selkään. Tiesin pääseväni maaliin Turussa,
   mutta oli liikuttava kokemus todistaa se. Lisäksi Turku on muuten Suomen paras
   kisa.
-dateModified: '2017-08-15T13:35:34.997Z'
-datePublished: '2017-08-15T13:35:35.972Z'
+dateModified: '2017-08-15T15:15:26.376Z'
+datePublished: '2017-08-15T15:15:28.077Z'
 title: Läheltä pohjaa Aurajoella
 author: []
 publisher: {}
@@ -109,7 +109,7 @@ Kolmannella kierroksella otin kaksi geeliä matkaan ja suolaa. Siinä vaiheessa 
 
 Tihkuna tuntunut sade oli tehnyt lammikon toispualjokke alamäkeen ja sain kengät märäksi. Onneksi sukat ja kengät oli hyvät. Kävelyn määrä oli kasvussa. Toiseksiviimeinen kierroksen lopetus tuntui pitkältä ja pisti kävelylle pidemmäksi aikaa. Tuntui, että tauon jälkeen rytmi meni melkein lopullisesti.
 
-Viimeiselle kierrokselle lähtiessä kannustusväki oli päässyt maalialueella vähenemään. Jäin hetkeksi huoltopisteelle valikoimaan parhaita geelejä päältä olin jo päättänyt, että juoksuaskelta yritän ylläpitää koko kierroksen loppuun asti. Red Bullia otin molemmille käsille jälleen. Kiitin melkein kaikkia toimitsijoita mennessäni. Muutama sadan metrin kävelypätkä oli pakko ottaa, kun jalkapohjat alkoivat kipeytyä. Siitä huolimatta kaksi viimeistä kilometriä olivat juoksun neljänneksi ja toiseksi nopeimmat ja maaliin sain kunnon spurtin.
+Viimeiselle kierrokselle lähtiessä kannustusväki oli päässyt maalialueella vähenemään. Jäin hetkeksi huoltopisteelle valikoimaan parhaita geelejä päältä olin jo päättänyt, että juoksuaskelta yritän ylläpitää koko kierroksen loppuun asti. Red Bullia otin molemmille käsille jälleen. Kiitin melkein kaikkia toimitsijoita mennessäni. Muutama sadan metrin kävelypätkä oli pakko ottaa, kun jalkapohjat alkoivat kipeytyä. Lisäksi siinä tälpualjokke alkoi vähän pistää. Olisko pitäny ottaa vielä toistamiseen suolaa tai yks geeli lisää? Siitä huolimatta kaksi viimeistä kilometriä olivat juoksun neljänneksi ja toiseksi nopeimmat ja maaliin sain kunnon spurtin.
 
 _3:05:28 (2:49:45)_
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/306e7210-3876-4690-8fb9-3b2bacbf69a5.jpg)
