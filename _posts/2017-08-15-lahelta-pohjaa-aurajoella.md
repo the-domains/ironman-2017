@@ -5,8 +5,8 @@ description: >-
   Silti siitä jäi pettymyksen apina selkään. Tiesin pääseväni maaliin Turussa,
   mutta oli liikuttava kokemus todistaa se. Lisäksi Turku on muuten Suomen paras
   kisa.
-dateModified: '2017-08-15T12:40:46.994Z'
-datePublished: '2017-08-15T12:40:47.749Z'
+dateModified: '2017-08-15T12:51:22.824Z'
+datePublished: '2017-08-15T12:51:23.817Z'
 title: Läheltä pohjaa Aurajoella
 author: []
 publisher: {}
@@ -118,5 +118,7 @@ _3:05:28 (2:49:45)_
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5400ed0-7c51-47ff-9298-a45c67b055ab.jpg)
 
 Loppuaika oli 6:59:37 eli juuri ja juuri alle seitsemän tunnin. (06:36:26) Nyt on minun puolestani otettu pohjakosketus. Tämä oli nyt absoluuttisesti huonoimmassa fyysisessä kunnossa tehty puolimatkan triathlon. Olen tyytyväinen, että täysin surkeasti menneen talven jälkeen olen alle puoli tuntia hitaampi. Kaikki ei mennyt suunnitelmien mukaan, mutta tärkeät asiat menivät yllättävän hyvin.
+
+Maalissa sai antaa nimmaria eräälle nuorelle neidille, kunhan kynä jostain löydettiin. Mistä mä oon faneja saanu?
 
 Kiitos oikein paljon taas kaikille, jotka kannustavat ihan nimeltä. En nyt oikeastaan halua miksikään toteemieläimeksi. Jos on pakko, haluan kuitenkin sanoa, että jos minä pystyn, pystyy niin moni muukin.
