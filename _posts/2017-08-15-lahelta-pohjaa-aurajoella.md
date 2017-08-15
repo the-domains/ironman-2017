@@ -5,16 +5,16 @@ description: >-
   Silti siitä jäi pettymyksen apina selkään. Tiesin pääseväni maaliin Turussa,
   mutta oli liikuttava kokemus todistaa se. Lisäksi Turku on muuten Suomen paras
   kisa.
-dateModified: '2017-08-15T12:20:22.187Z'
-datePublished: '2017-08-15T12:20:23.122Z'
+dateModified: '2017-08-15T12:22:19.848Z'
+datePublished: '2017-08-15T12:22:20.674Z'
 title: Läheltä pohjaa Aurajoella
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-08-15-lahelta-pohjaa-aurajoella.md
 starred: false
 datePublishedOriginal: '2017-08-15T12:20:23.122Z'
-sourcePath: _posts/2017-08-15-lahelta-pohjaa-aurajoella.md
 url: lahelta-pohjaa-aurajoella/index.html
 _type: Article
 
@@ -36,6 +36,7 @@ Aikatavoitteet asetin tämän kauden tason mukaan ja vähän yli. Uinti 40 min, 
 ## Valmistelu
 
 Ennen Joroista viimeisellä teholenkillä petti vasemman puolen käsinojan pultti ja sitä korjattiin viimehetkellä. Työkaveria kauemmas ei varaosia tarvinnut lähteä hakemaan ja onneksi kiinnikkeitä myydään vain pareittain, koska viikkoa ennen kisaa viimeisellä teholenkillä petti oikean puolen käsinojan pultti. Tottunein ottein vaihdoin sen ja vältin viimeiseen asti ylimomenttiin vääntämistä. Varmuuden vuoksi otin käsinojia yhden pykälän sisäänpäin, jotten väännä pultteja koko painolla.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c2ba1fd-b0b8-40f9-b3a7-d16c3d2df4ff.jpg)
 
 Pyörä oli valmis ja sadekelin jälkeen suureksi osaksi kiillotettu perjantaina ja sain laukunkin pakattua jo lähtöä edeltävänä päivänä. Säätiedotukset olivat luvanneet kaikkea helteen ja ydintalven väliltä, joten pakkasin mukaan myös thermohihat, lahkeet, kaksi pulloa aurinkovoidetta ja aerodynaamisimman manttelin, jonka kaapista löysin. Poikkeuksina kaikkiin aiempiin kisoihin otimme mukaan myös koirat ja siitäkin huolimatta alkuperäisestä lähtöajasta yhdeksältä oltiin lauantaiaamuna myöhässä kaksi minuuttia. Ensimmäinen pitstop oli koirapuisto, jossa perheemme nopeimmat jäsenet päästelivät höyryjä. Siitä reitti kulki V&O:n kautta tasan kymmeneltä, kun liike avaa ovensa. Minä en yksinkertaisesti pysty ostamaan geelejä etukäteen.
 
