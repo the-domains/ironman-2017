@@ -31,6 +31,9 @@ navigation:
   - name: Projekti
     id: 6c2d5e9e-563a-40da-8265-49e1a64c6332
     type: content
+  - name: Projekti
+    id: 246e9d3a-e839-42ea-a21c-7dd76d1fa6d2
+    type: content
 favicon: null
 title: IM18
 content:
@@ -42,20 +45,19 @@ content:
     src: >-
       https://s3-us-west-2.amazonaws.com/the-grid-img/p/2c125cd6c23a6de0012d8b24ffe1c0ffba91a871.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://s3-us-west-2.amazonaws.com'
         name: .s3-us-west-2.amazonaws.com
         favicon: null
         domain: s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
