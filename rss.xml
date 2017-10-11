@@ -4,9 +4,16 @@
         <description><![CDATA[IM18]]></description>
         <link>http://ferrix.kisakalenteri.fi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Aug 2017 19:36:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2017 18:19:42 GMT</lastBuildDate>
         <atom:link href="http://ferrix.kisakalenteri.fi/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 15 Aug 2017 19:36:22 GMT</pubDate>
+        <pubDate>Wed, 11 Oct 2017 18:19:37 GMT</pubDate>
+        <item>
+            <title><![CDATA[No minähän teen]]></title>
+            <description><![CDATA[<h1>No minähän teen</h1>,<p><em>Kun Helsinkiin ilmajarruttava kone on puolisen tuntia pilvikerroksen sisällä, tietää Espanjan treenikelien jääneen taa. Viikkoon olen nähnyt auringon kahdesti ja toinen niistä oli valokuva. Siinä iskee blues.</em></p>]]></description>
+            <link>http://ferrix.kisakalenteri.fi/no-minahan-teen/index.html</link>
+            <guid isPermaLink="false">6315534c-0c3c-4b85-bf38-e6909298e99b</guid>
+            <pubDate>Wed, 11 Oct 2017 18:19:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Läheltä pohjaa Aurajoella]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec29dcb5-005e-4013-ace6-200e6c902b32.jpg">,<h1>Läheltä pohjaa Aurajoella</h1>,<p><em>Joroisten keskeytys oli puujaloin vaihtoon kävelyn jälkeen järkevä päätös. Silti siitä jäi pettymyksen apina selkään. Tiesin pääseväni maaliin Turussa, mutta oli liikuttava kokemus todistaa se. Lisäksi Turku on muuten Suomen paras kisa.</em></p>]]></description>
@@ -69,13 +76,6 @@
             <link>http://ferrix.kisakalenteri.fi/henkimaailman-juttuja/index.html</link>
             <guid isPermaLink="false">1eac3157-8085-406b-bb13-a8bf39ea6e5b</guid>
             <pubDate>Tue, 19 Jul 2016 12:25:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Miten tavoitteeseen päästään?]]></title>
-            <description><![CDATA[<h1>Miten tavoitteeseen päästään?</h1>,<p><em>Aion karistaa vuodessa puolitoista tuntia triathlonin puolimatkan ennätyksestäni. Isot pojat sanovat realistiseksi, mutta kunnianhimoiseksi. Siltä minustakin tuntuu.</em></p>,<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb7a37f4216401c096df4656d6da21886662df06.jpg" title="Suunnitelma">]]></description>
-            <link>http://ferrix.kisakalenteri.fi/miten-tavoitteeseen-paastaan/index.html</link>
-            <guid isPermaLink="false">06b2f835-d430-48c2-bd9d-acea87b8cb12</guid>
-            <pubDate>Fri, 09 Oct 2015 10:06:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
