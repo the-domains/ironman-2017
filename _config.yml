@@ -29,9 +29,6 @@ cta:
   version: null
 navigation:
   - name: Projekti
-    id: 6c2d5e9e-563a-40da-8265-49e1a64c6332
-    type: content
-  - name: Projekti
     id: 246e9d3a-e839-42ea-a21c-7dd76d1fa6d2
     type: content
 favicon: null
