@@ -4,9 +4,16 @@
         <description><![CDATA[IM18]]></description>
         <link>http://ferrix.kisakalenteri.fi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 Oct 2017 18:19:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Nov 2017 15:54:05 GMT</lastBuildDate>
         <atom:link href="http://ferrix.kisakalenteri.fi/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 11 Oct 2017 18:19:37 GMT</pubDate>
+        <pubDate>Wed, 22 Nov 2017 15:54:02 GMT</pubDate>
+        <item>
+            <title><![CDATA[Koska se sippaa?]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/74fdbc31-0b8d-4f7c-9103-52792a9ca7bc.jpg">,<h1>Koska se sippaa?</h1>,<p><em>Syksyllä kisakaudet ja ylimenokaudet on lusittu. Suomalaisessa harjoitusvuodessa alkaa peruskuntokausi eli trainerijyystöä, ikuisen tuntuista juoksunylkytystä pimeydessä vesisateessa ja tietenkin uimahallin ruuhkassa luovimista. Nyt on korkea aika selvittää, mitä on peekoo, veekoo ja mikä ei oo ookoo. Kynnystestiin mars.</em></p>]]></description>
+            <link>http://ferrix.kisakalenteri.fi/koska-se-sippaa/index.html</link>
+            <guid isPermaLink="false">080534df-bb97-464b-a7ae-689021866272</guid>
+            <pubDate>Wed, 22 Nov 2017 15:53:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No minähän teen]]></title>
             <description><![CDATA[<h1>No minähän teen</h1>,<p><em>Kun Helsinkiin ilmajarruttava kone on puolisen tuntia pilvikerroksen sisällä, tietää Espanjan treenikelien jääneen taa. Viikkoon olen nähnyt auringon kahdesti ja toinen niistä oli valokuva. Siinä iskee blues.</em></p>]]></description>
@@ -69,13 +76,6 @@
             <link>http://ferrix.kisakalenteri.fi/vuoden-suunnitelma/index.html</link>
             <guid isPermaLink="false">f6b7435a-ab4f-4212-8335-9eb8a99d733a</guid>
             <pubDate>Tue, 19 Jul 2016 12:26:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Henkimaailman juttuja]]></title>
-            <description><![CDATA[<h1>Henkimaailman juttuja</h1>,<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/872e6956096c28b6e9bbd11246ca4d0ec7c26047.jpg">,<p><em>Monet triathlonistit mittaavat yhtä jos toista suorituksestaan. Kuntoilijat saattavat mitata sykettä, mutta mitä oikeastaan voi ja kannattaa mitata?</em></p>]]></description>
-            <link>http://ferrix.kisakalenteri.fi/henkimaailman-juttuja/index.html</link>
-            <guid isPermaLink="false">1eac3157-8085-406b-bb13-a8bf39ea6e5b</guid>
-            <pubDate>Tue, 19 Jul 2016 12:25:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
