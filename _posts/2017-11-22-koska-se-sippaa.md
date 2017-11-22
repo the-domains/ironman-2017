@@ -6,16 +6,16 @@ description: >-
   juoksunylkytystä pimeydessä vesisateessa ja tietenkin uimahallin ruuhkassa
   luovimista. Nyt on korkea aika selvittää, mitä on peekoo, veekoo ja mikä ei oo
   ookoo. Kynnystestiin mars.
-dateModified: '2017-11-22T15:53:48.413Z'
-datePublished: '2017-11-22T15:53:49.484Z'
+dateModified: '2017-11-22T16:03:31.588Z'
+datePublished: '2017-11-22T16:03:32.511Z'
 title: Koska se sippaa?
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-11-22-koska-se-sippaa.md
 starred: false
 datePublishedOriginal: '2017-11-22T15:53:49.484Z'
-sourcePath: _posts/2017-11-22-koska-se-sippaa.md
 url: koska-se-sippaa/index.html
 _type: Article
 
@@ -34,7 +34,7 @@ Minullahan ylimenokausi oli ennen Turun kisaa elokuussa. Siitä lähtien yhtä k
 
 Kun ihminen liikkuu, lihakset muuttavat happea ja ravintoa hiilidioksidiksi ja kuona-aineiksi. Näiden kuona-aineiden määrää arvioidaan laktaattimittauksella ja hengityskaasuja analysoimalla. Laktaatti ei itseasiassa ole syy lihasten poltteeseen, mutta "hapotuksen" tunteessa kehon happamuus kyllä nousee muiden aineiden vuoksi.
 
-Lievässä rasituksessa laktaattia ei juurikaan erity. Aerobinen kynnys on se raja, jonka jälkeen laktaatin eritys alkaa nousta huomattavasti. Aineenvaihdunta kuitenkin käsittelee kuona-aineita tehokkaaksi niin, etteivät ne pääse kertymään haitallisesti. Anaerobinen kynnys on kuona-aineiden käsittelyn huipputaso, jossa lihakset tuottavat maksimimäärän kuona-aineita, jonka keho pystyy vielä käsittelemään. Tämän kynnyksen yläpuolella kuona-aineet alkavat kertyä nopeammin kuin keho niitä pystyy käsittelemään. Siinä missä anaerobisen kynnyksen alapuolella pystyy työskentelemään tuntikausia, anaerobisen kynnyksen yläpuolella voi työskennellä vain lyhyitä aikoja väsymättä. 
+Lievässä rasituksessa laktaattia ei juurikaan erity. Aerobinen kynnys on se raja, jonka jälkeen laktaatin eritys alkaa nousta huomattavasti. Aineenvaihdunta kuitenkin käsittelee kuona-aineita tehokkaaksi niin, etteivät ne pääse kertymään haitallisesti. Anaerobinen kynnys on kuona-aineiden käsittelyn huipputaso, jossa lihakset tuottavat maksimimäärän kuona-aineita, jonka keho pystyy vielä käsittelemään. Tämän kynnyksen yläpuolella kuona-aineet alkavat kertyä nopeammin kuin keho niitä pystyy käsittelemään. Siinä missä anaerobisen kynnyksen alapuolella pystyy työskentelemään tuntikausia, anaerobisen kynnyksen yläpuolella voi työskennellä vain lyhyitä aikoja väsymättä.
 
 ## Miksi tätä sitten testataan?
 
@@ -45,13 +45,13 @@ Olen käynyt ennen tätä syksyä yhdessä juoksutestissä ja viidessä pyöräe
 ## BassoSports
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd229f7e-d1e5-4d98-bae6-e2fab126136e.jpg)
 
-Tällä kertaa halusin yhdistelmätestin, koska nyt on elämän isoin kisa kyseessä. Treenikaveri suositteli [BassoSportsin][0] testiä, jolle kertyisi hintaa molemmista lajeista 90 euroa. Yleensä nuo yksittäiset lajitestit liikkuvat yli satasen hinnoissa. Sähköpostiin vastasi hyvin nopeasti Niemelän Pasi, jonka suoritusta olin Barcelonassa päässyt todistamaan. Minua vähän vanhempi ja pidempi kaveri, joka on liikunta-alalta siirtynyt ATK-hommiin ja palannut takaisin oikealle alalle. Navigaattori toi testausaseman parkkipaikalle Kirkkonummella ja ovikellomuodollisuuksien jälkeen siirryimme rivitalon alakertaan Pasin pain caveen, jossa odottivat juoksumatto ja Wattbike. Sähköpostilla oli jo aiemmin sovittu, millä klosseilla tulen testin ajamaan ja kaikki oli valmista.
+Tällä kertaa halusin yhdistelmätestin, koska nyt on elämän isoin kisa kyseessä. Treenikaveri suositteli [BassoSportsin][0] testiä, jolle kertyisi hintaa molemmista lajeista 90 euroa. Hintaan sisältyy laktaattimittaus. Yleensä nuo yksittäiset lajitestit liikkuvat yli satasen hinnoissa. Sähköpostiin vastasi hyvin nopeasti Niemelän Pasi, jonka suoritusta olin Barcelonassa päässyt todistamaan. Minua vähän vanhempi ja pidempi kaveri, joka on liikunta-alalta siirtynyt ATK-hommiin ja palannut takaisin oikealle alalle. Navigaattori toi testausaseman parkkipaikalle Kirkkonummella ja ovikellomuodollisuuksien jälkeen siirryimme rivitalon alakertaan Pasin pain caveen, jossa odottivat juoksumatto ja Wattbike. Sähköpostilla oli jo aiemmin sovittu, millä klosseilla tulen testin ajamaan ja kaikki oli valmista.
 
 ## Pyörätesti
 ![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/a4973e5ebde70f51275d313922ee26d9/croprotate.png?cropheight=412&cropwidth=561&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Ffe8734b2-eacb-4f95-90ed-901edac03fd9.png&x=20&y=0)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dcf62e40-7ef1-4a18-9d07-3ddb2292bbe9.jpg)
 
-Wattbiken tarjoama vastus riippuu siitä, kuinka kovaa sitä vastaan poljen. Tästä syystä testiprotokollaan kuului saman kadenssin ylläpitäminen. Lämmittelyn jälkeen iskettiin suonta, otettiin laktaattimittaus ja nostettiin vastusta kolmen minuutin välein. Kynnys löytyi neljännen ja viidennen kuorman väliltä. Raportti sanoo 138, joka on korkein kynnys. Omaksi yllätyksekseni anaerobinen kynnys löytyi kohdasta 158, mikä oli odottamatonta ja toiseksi matalin koskaan mitattu aerobinen kynnys. Pasi kyllä sanoi, että nyt taitaa löytyä ja meinasin väittää vastaan, mutta laktaattimittaus ei kuitenkaan pettänyt tässä vaiheessa. Kuormaa pois ja kuonat pois koivista.
+Wattbiken tarjoama vastus riippuu siitä, kuinka kovaa sitä vastaan poljen. Tästä syystä testiprotokollaan kuului saman kadenssin ylläpitäminen. Lämmittelyn jälkeen iskettiin suonta, otettiin laktaattimittaus ja nostettiin vastusta kolmen minuutin välein. Kynnys löytyi neljännen ja viidennen kuorman väliltä. Raportti sanoo 138, joka on korkein kynnys tähän mennessä. Omaksi yllätyksekseni anaerobinen kynnys löytyi kohdasta 158, mikä oli odottamatonta ja toiseksi matalin koskaan mitattu aerobinen kynnys. Pasi kyllä sanoi, että nyt taitaa löytyä ja meinasin väittää vastaan, mutta laktaattimittaus ei kuitenkaan pettänyt tässä vaiheessa. Kuormaa pois ja kuonat pois koivista.
 
 Syketietojen lisäksi sain wattikynnykset 190W ja 260W. Pasi kävi raportissaan myös läpi jalkojen voimaeron ja löytyi sieltä myös tuo Wattbiken maaginen pähkinä, josta pitäisi osata päätellä kuinka hyvä pyörittäjä olen. Olen omasta ja äidin mielestä ihan jees. Voimaerot olivat tiedossa, koska ajelen mittaripolkimilla kaiken kesää ja heitto on tyypillisesti 1-2 prosenttiyksikköä oikean eduksi.
 ![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/2455124543c7d8a15a25d5ce238e3713/croprotate.png?cropheight=540&cropwidth=1295&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F8785a19c-cdaf-479e-9439-fea7041ed775.png&x=23&y=19)
