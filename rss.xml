@@ -4,9 +4,16 @@
         <description><![CDATA[IM18]]></description>
         <link>http://ferrix.kisakalenteri.fi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 22 Nov 2017 16:03:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Dec 2017 14:23:14 GMT</lastBuildDate>
         <atom:link href="http://ferrix.kisakalenteri.fi/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 22 Nov 2017 16:03:33 GMT</pubDate>
+        <pubDate>Sun, 31 Dec 2017 14:23:13 GMT</pubDate>
+        <item>
+            <title><![CDATA[Tilinpäätös 2017]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1a33e26-e3b3-4d74-a4b5-2bf6bad63ba0.jpg">,<h1>Tilinpäätös 2017</h1>,<p><em>Triathlonvuosi elettiin suunnilleen kvartaalitaloudessa: selkeästi neljässä osassa ja huimaa kasvua tavoitellen.</em></p>]]></description>
+            <link>http://ferrix.kisakalenteri.fi/tilinpaatos-2017/index.html</link>
+            <guid isPermaLink="false">5d4c08aa-0e0d-4f57-8626-ffad77455d87</guid>
+            <pubDate>Sun, 31 Dec 2017 14:23:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Koska se sippaa?]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/74fdbc31-0b8d-4f7c-9103-52792a9ca7bc.jpg">,<h1>Koska se sippaa?</h1>,<p><em>Syksyllä kisakaudet ja ylimenokaudet on lusittu. Suomalaisessa harjoitusvuodessa alkaa peruskuntokausi eli trainerijyystöä, ikuisen tuntuista juoksunylkytystä pimeydessä vesisateessa ja tietenkin uimahallin ruuhkassa luovimista. Nyt on korkea aika selvittää, mitä on peekoo, veekoo ja mikä ei oo ookoo. Kynnystestiin mars.</em></p>]]></description>
@@ -69,13 +76,6 @@
             <link>http://ferrix.kisakalenteri.fi/helletriathlon-savolaisittain/index.html</link>
             <guid isPermaLink="false">72374321-6519-470b-83b8-7380807da00c</guid>
             <pubDate>Tue, 19 Jul 2016 13:53:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vuoden suunnitelma]]></title>
-            <description><![CDATA[<h1>Vuoden suunnitelma</h1>,<p><em>Monen vuoden aktiivisen liikunnan jälkeenkin tarvitaan kisasuunnitelma, jotta treeni maistuu joltakin</em></p>,<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2c125cd6c23a6de0012d8b24ffe1c0ffba91a871.jpg">]]></description>
-            <link>http://ferrix.kisakalenteri.fi/vuoden-suunnitelma/index.html</link>
-            <guid isPermaLink="false">f6b7435a-ab4f-4212-8335-9eb8a99d733a</guid>
-            <pubDate>Tue, 19 Jul 2016 12:26:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
