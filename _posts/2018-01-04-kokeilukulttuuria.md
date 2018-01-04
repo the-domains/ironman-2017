@@ -5,16 +5,16 @@ description: >-
   starttipyssy ja käynnistyy varmaankin Suomen ensimmäinen 24 tunnin triathlonin
   sisäultratapahtuma, PÖLJÄ 2018. Idea oli niin typerä, että ilmoittauduin
   mukaan ensimmäisenä. Nyt vielä viimehetken valmistelut.
-dateModified: '2018-01-04T21:47:32.391Z'
-datePublished: '2018-01-04T21:47:33.182Z'
+dateModified: '2018-01-04T21:55:37.851Z'
+datePublished: '2018-01-04T21:55:39.268Z'
 title: Kokeilukulttuuria
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2018-01-04-kokeilukulttuuria.md
 starred: false
 datePublishedOriginal: '2018-01-04T21:47:33.182Z'
-sourcePath: _posts/2018-01-04-kokeilukulttuuria.md
 url: kokeilukulttuuria/index.html
 _type: Article
 
@@ -33,7 +33,7 @@ Tämä kilpailu on minulle suuri kokeilu. Minun pisin suoritukseni on tähän me
 
 ## Ravinto
 
-Tilasin Endurance Sportsilta lajitelman GU:n geelejä, jellyjä ja mitä sieltä nyt tuleekaan. Mika kokosi speksit kuultuaan runsaammin suolattuja geelejä mukaan ja taitaa paketissa olla juomapullokin. Olen aiemmin syönyt noita kiinteitä versioita ja ne ovat aidosti ainoa kiinteä asia banaanin lisäksi, joita pystyn satulassa oikeasti syömään. Palakoko on niin sopiva. Lisäksi maku on kohdallaan ja niitä syö vahingossa karkkinakin.
+Tilasin [Endurance Sports][0]ilta lajitelman GU:n geelejä, jellyjä ja mitä sieltä nyt tuleekaan. Mika kokosi speksit kuultuaan runsaammin suolattuja geelejä mukaan ja taitaa paketissa olla juomapullokin. Olen aiemmin syönyt noita kiinteitä versioita ja ne ovat aidosti ainoa kiinteä asia banaanin lisäksi, joita pystyn satulassa oikeasti syömään. Palakoko on niin sopiva. Lisäksi maku on kohdallaan ja niitä syö vahingossa karkkinakin.
 
 Tämä on ollut kilpailuun liittyen suurin yksittäinen huolenaihe, koska ensimmäistä kertaa pakettiautomaattien historiassa koko lähetys on viime torstain jälkeen ollut teillä tietämättömiltä. Kunnon asiakaspalvelijana Mika kuitenkin kokosi toisen samanlaisen kuorman, joka tulee huomisaamuna pääkaupunkiseudulle ihan muita reittejä kuin Postilla. Tästä iso hatunnosto! Ei todellakaan kuuluisi viimeisen tapahtumaan valmistavan päivän lepoon yrittää suhata ympäri pääkaupunkiseutua etsimässä jotain korvaavaa.
 
@@ -76,3 +76,5 @@ Aikataulu menee siis arviolta näin:
 Tämän jälkeen otan unitauon ja sen jälkeen katsotaan, mitä sunnuntaina tapahtuu. Viimeinen puoli tuntia on kuitenkin pyöräiltävä tai juostava, joten sekin on tehtävä.
 
 Lisään Facebookiin ketjun, jonne minä tai huoltajat kommentoimme edistystä, fiiliksiä ja mitä nyt väsyneenä mieleen juolahtaa.
+
+[0]: http://endurancesports.fi/
