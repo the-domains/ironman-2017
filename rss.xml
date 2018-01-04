@@ -4,9 +4,16 @@
         <description><![CDATA[IM18]]></description>
         <link>http://ferrix.kisakalenteri.fi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Dec 2017 14:23:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jan 2018 21:47:35 GMT</lastBuildDate>
         <atom:link href="http://ferrix.kisakalenteri.fi/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 31 Dec 2017 14:23:13 GMT</pubDate>
+        <pubDate>Thu, 04 Jan 2018 21:47:34 GMT</pubDate>
+        <item>
+            <title><![CDATA[Kokeilukulttuuria]]></title>
+            <description><![CDATA[<h1>Kokeilukulttuuria</h1>,<p><em>Viikonloppuna eli lauantaina 6.1. Klo 12:00 paukahtaa jonkin sortin starttipyssy ja käynnistyy varmaankin Suomen ensimmäinen 24 tunnin triathlonin sisäultratapahtuma, PÖLJÄ 2018. Idea oli niin typerä, että ilmoittauduin mukaan ensimmäisenä. Nyt vielä viimehetken valmistelut.</em></p>]]></description>
+            <link>http://ferrix.kisakalenteri.fi/kokeilukulttuuria/index.html</link>
+            <guid isPermaLink="false">cd67f680-0c51-4c23-b116-2356288404f2</guid>
+            <pubDate>Thu, 04 Jan 2018 21:47:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tilinpäätös 2017]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1a33e26-e3b3-4d74-a4b5-2bf6bad63ba0.jpg">,<h1>Tilinpäätös 2017</h1>,<p><em>Triathlonvuosi elettiin suunnilleen kvartaalitaloudessa: selkeästi neljässä osassa ja huimaa kasvua tavoitellen.</em></p>]]></description>
@@ -69,13 +76,6 @@
             <link>http://ferrix.kisakalenteri.fi/raakkiviikko/index.html</link>
             <guid isPermaLink="false">4bef7110-0a08-4e17-8ca4-c78efd624088</guid>
             <pubDate>Tue, 19 Jul 2016 14:12:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Helletriathlon savolaisittain]]></title>
-            <description><![CDATA[<h1>Helletriathlon savolaisittain</h1>,<p><i>Joskus kaikki menee ihan vihkoon ja samalla ihan hyvin.</i></p>,<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2f3808873e9339500ff832fd030ab198/croprotate.jpg?cropheight=1079&cropwidth=1848&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F5cb094f2-16b7-49c5-acac-a6bdbb054667.jpg&x=0&y=0" alt="" title="">]]></description>
-            <link>http://ferrix.kisakalenteri.fi/helletriathlon-savolaisittain/index.html</link>
-            <guid isPermaLink="false">72374321-6519-470b-83b8-7380807da00c</guid>
-            <pubDate>Tue, 19 Jul 2016 13:53:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
