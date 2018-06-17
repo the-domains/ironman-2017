@@ -4,16 +4,16 @@ description: >-
   Kauden neljäs kisastartti ja ensimmäinen perusmatka. Näistä pitää ammentaa
   jonkinlaista dataa kohti Barcelonaa, joten nyt on dataa. Nyt on myös reikä
   kiekossa, paikat kipeänä ja vähän ristiriitaiset fiilikset.
-dateModified: '2018-06-17T18:48:16.868Z'
-datePublished: '2018-06-17T18:48:17.787Z'
+dateModified: '2018-06-17T18:51:13.189Z'
+datePublished: '2018-06-17T18:51:13.843Z'
 title: Ihan perus-Vantaa
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2018-06-17-ihan-perus-vantaa.md
 starred: false
 datePublishedOriginal: '2018-06-17T18:48:17.787Z'
-sourcePath: _posts/2018-06-17-ihan-perus-vantaa.md
 url: ihan-perus-vantaa/index.html
 _type: Article
 
@@ -21,6 +21,7 @@ _type: Article
 # Ihan perus-Vantaa
 
 _Kauden neljäs kisastartti ja ensimmäinen perusmatka. Näistä pitää ammentaa jonkinlaista dataa kohti Barcelonaa, joten nyt on dataa. Nyt on myös reikä kiekossa, paikat kipeänä ja vähän ristiriitaiset fiilikset._
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad44d97b-271f-486a-8bf8-b9844632dda6.jpg)
 
 ---
 
